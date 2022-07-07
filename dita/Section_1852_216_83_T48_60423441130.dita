@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_216_83_T48_60423441130">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.216-83</ph> Fixed price incentive.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1816.406-70(c), insert the following clause:
+</p>
+                                 <p xtrc="HD1">Fixed Price Incentive (OCT 1996)
+</p>
+                                 <p xtrc="P">The target cost of this contract is $______. The Target profit of this contract is $______. The target price (target cost plus target profit) of this contract is $______. [The ceiling price is $______.]
+</p>
+                                 <p xtrc="P">The cost sharing for target cost underruns is: Government ____ percent; Contractor ____ percent. 
+</p>
+                                 <p xtrc="P">The cost sharing for target cost overruns is: Government ____ percent; Contractor ____ percent.</p>
+                              <p xtrc="HD3">(End of clause) 
+</p>
+      </conbody>
+   </concept>
+</dita>

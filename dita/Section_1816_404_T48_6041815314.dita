@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1816_404_T48_6041815314">
+      <title class="- topic/title ">
+         <ph props="autonumber">1816.404</ph> Fixed-price contracts with award fees.</title>
+      <conbody>
+         <p xtrc="P">Section 1816.405-2 applies to the use of FPAF contracts as if they were CPAF contracts. However, neither base fee (see 1816.405-271) nor evaluation of cost control (see 1816.405-274) apply to FPAF contracts.
+</p>
+      </conbody>
+   </concept>
+</dita>

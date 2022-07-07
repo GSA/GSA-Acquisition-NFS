@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1839_T48_6042132">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1839</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           51 U.S.C. 20113(a) and 48 CFR chapter 1.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           62 FR 4473, Jan. 30, 1997, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1839_1_T48_60421321.dita#Subpart_1839_1_T48_60421321">Subpart 1839.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1839_107_T48_6042132111.dita#Section_1839_107_T48_6042132111">1839.107 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1839_107_70_T48_6042132112.dita#Section_1839_107_70_T48_6042132112">1839.107-70 NASA contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

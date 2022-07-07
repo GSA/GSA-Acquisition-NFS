@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1828_T48_6042023">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1828</ph> - BONDS AND INSURANCE</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           51 U.S.C. 20113(a) and 48 CFR chapter 1.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           61 FR 55765, Oct. 29, 1996, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1828_3_T48_60420231.dita#Subpart_1828_3_T48_60420231">Subpart 1828.3 - Insurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1828_311_T48_6042023111.dita#Section_1828_311_T48_6042023111">1828.311 Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1828_311_1_T48_6042023112.dita#Section_1828_311_1_T48_6042023112">1828.311-1 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1828_311_2_T48_6042023113.dita#Section_1828_311_2_T48_6042023113">1828.311-2 Agency solicitation provisions and contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1828_311_270_T48_6042023114.dita#Section_1828_311_270_T48_6042023114">1828.311-270 NASA solicitation provisions and contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1828_370_T48_6042023115.dita#Section_1828_370_T48_6042023115">1828.370 Fixed-price contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1828_371_T48_6042023116.dita#Section_1828_371_T48_6042023116">1828.371 Clauses incorporating cross-waivers of liability for International Space Station activities and Science or Space Exploration activities unrelated to the International Space Station.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1828_372_T48_6042023117.dita#Section_1828_372_T48_6042023117">1828.372 Clause for minimum insurance coverage.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

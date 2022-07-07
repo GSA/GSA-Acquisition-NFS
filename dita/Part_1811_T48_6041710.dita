@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1811_T48_6041710">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1811</ph> - DESCRIBING AGENCY NEEDS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           51 U.S.C. 20113(a) and 48 CFR chapter 1.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           65 FR 37062, June 13, 2000], uness otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1811_4_T48_60417101.dita#Subpart_1811_4_T48_60417101">Subpart 1811.4 - Delivery or Performance Schedules</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1811_404_70_T48_6041710111.dita#Section_1811_404_70_T48_6041710111">1811.404-70 NASA contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

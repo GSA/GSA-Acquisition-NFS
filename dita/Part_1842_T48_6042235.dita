@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1842_T48_6042235">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1842</ph> - CONTRACT ADMINISTRATION AND AUDIT SERVICES</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           51 U.S.C. 20113(a) and 48 CFR chapter 1.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           62 FR 14017, Mar. 25, 1997, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1842_70_T48_60422351.dita#Subpart_1842_70_T48_60422351">Subpart 1842.70 - Additional NASA Contract Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1842_7001_T48_6042235111.dita#Section_1842_7001_T48_6042235111">1842.7001 Denied access to NASA facilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1842_7002_T48_6042235112.dita#Section_1842_7002_T48_6042235112">1842.7002 Travel outside of the United States.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1842_7003_T48_6042235113.dita#Section_1842_7003_T48_6042235113">1842.7003 Emergency medical services and evacuation.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1842_71_T48_60422352.dita#Subpart_1842_71_T48_60422352">Subpart 1842.71 [Reserved]</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1842_72_T48_60422353.dita#Subpart_1842_72_T48_60422353">Subpart 1842.72 - NASA Contractor Financial Management Reporting</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1842_7201_T48_6042235311.dita#Section_1842_7201_T48_6042235311">1842.7201 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1842_7202_T48_6042235312.dita#Section_1842_7202_T48_6042235312">1842.7202 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

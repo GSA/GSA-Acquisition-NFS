@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1846_T48_6042239">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1846</ph> - QUALITY ASSURANCE</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           51 U.S.C. 20113(a) and 48 CFR chapter 1.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           62 FR 14024, Mar. 25, 1997, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1846_1_T48_60422391.dita#Subpart_1846_1_T48_60422391">Subpart 1846.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_102_T48_6042239111.dita#Section_1846_102_T48_6042239111">1846.102 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1846_3_T48_60422392.dita#Subpart_1846_3_T48_60422392">Subpart 1846.3 - Contract Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_370_T48_6042239211.dita#Section_1846_370_T48_6042239211">1846.370 NASA contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1846_4_T48_60422393.dita#Subpart_1846_4_T48_60422393">Subpart 1846.4 - Government Contract Quality Assurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_470_T48_6042239311.dita#Section_1846_470_T48_6042239311">1846.470 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1846_6_T48_60422394.dita#Subpart_1846_6_T48_60422394">Subpart 1846.6 - Material Inspection and Receiving Reports</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_670_T48_6042239411.dita#Section_1846_670_T48_6042239411">1846.670 Introduction.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_670_1_T48_6042239412.dita#Section_1846_670_1_T48_6042239412">1846.670-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_670_2_T48_6042239413.dita#Section_1846_670_2_T48_6042239413">1846.670-2 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_670_3_T48_6042239414.dita#Section_1846_670_3_T48_6042239414">1846.670-3 Use.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_670_4_T48_6042239415.dita#Section_1846_670_4_T48_6042239415">1846.670-4 Multiple shipments.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_670_5_T48_6042239416.dita#Section_1846_670_5_T48_6042239416">1846.670-5 Forms.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_671_T48_6042239417.dita#Section_1846_671_T48_6042239417">1846.671 Contract quality assurance on shipments between contractors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_672_T48_6042239418.dita#Section_1846_672_T48_6042239418">1846.672 Preparing DD Forms 250 and 250c.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_672_1_T48_6042239419.dita#Section_1846_672_1_T48_6042239419">1846.672-1 Preparation instructions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_672_2_T48_60422394110.dita#Section_1846_672_2_T48_60422394110">1846.672-2 Consolidated shipments.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_672_3_T48_60422394111.dita#Section_1846_672_3_T48_60422394111">1846.672-3 Multiple consignee instructions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_672_4_T48_60422394112.dita#Section_1846_672_4_T48_60422394112">1846.672-4 Correction instructions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_672_5_T48_60422394113.dita#Section_1846_672_5_T48_60422394113">1846.672-5 Packing list instructions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_672_6_T48_60422394114.dita#Section_1846_672_6_T48_60422394114">1846.672-6 Receiving instructions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_673_T48_60422394115.dita#Section_1846_673_T48_60422394115">1846.673 Distribution of DD Forms 250 and 250c.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_674_T48_60422394116.dita#Section_1846_674_T48_60422394116">1846.674 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1846_70_T48_60422395.dita#Subpart_1846_70_T48_60422395">Subpart 1846.70 - Counterfeit Electronic Part Detection and Avoidance.</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_7000_T48_6042239511.dita#Section_1846_7000_T48_6042239511">1846.7000 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_7001_T48_6042239512.dita#Section_1846_7001_T48_6042239512">1846.7001 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_7002_T48_6042239513.dita#Section_1846_7002_T48_6042239513">1846.7002 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1846_7003_T48_6042239514.dita#Section_1846_7003_T48_6042239514">1846.7003 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
