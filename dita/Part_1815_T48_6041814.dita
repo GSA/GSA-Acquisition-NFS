@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1815_T48_6041814">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1815</ph> - CONTRACTING BY NEGOTIATION</title>
+      <title class="- topic/title ">PART 1815—CONTRACTING BY NEGOTIATION
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,13 +22,12 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1815_2_T48_60418141.dita#Subpart_1815_2_T48_60418141">Subpart 1815.2 - Solicitation and Receipt of Proposals and Information</xref>
+                        href="Subpart_1815_2_T48_60418141.dita#Subpart_1815_2_T48_60418141">Subpart 1815.2—Solicitation and Receipt of Proposals and Information</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_203_72_T48_6041814111.dita#Section_1815_203_72_T48_6041814111">1815.203-72 Risk management.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_203–72_T48_6041814111.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -39,14 +38,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_207_70_T48_6041814113.dita#Section_1815_207_70_T48_6041814113">1815.207-70 Release of proposal information.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_207–70_T48_6041814113.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_207_71_T48_6041814114.dita#Section_1815_207_71_T48_6041814114">1815.207-71 Appointing non-Government evaluators as special Government employees.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_207–71_T48_6041814114.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -63,8 +60,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_209_70_T48_6041814117.dita#Section_1815_209_70_T48_6041814117">1815.209-70 NASA solicitation provisions.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_209–70_T48_6041814117.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -72,13 +68,12 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1815_3_T48_60418142.dita#Subpart_1815_3_T48_60418142">Subpart 1815.3 - Source Selection</xref>
+                        href="Subpart_1815_3_T48_60418142.dita#Subpart_1815_3_T48_60418142">Subpart 1815.3—Source Selection</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_305_70_T48_6041814211.dita#Section_1815_305_70_T48_6041814211">1815.305-70 Identification of unacceptable proposals.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_305–70_T48_6041814211.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -92,7 +87,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1815_4_T48_60418143.dita#Subpart_1815_4_T48_60418143">Subpart 1815.4 - Contract Pricing</xref>
+                        href="Subpart_1815_4_T48_60418143.dita#Subpart_1815_4_T48_60418143">Subpart 1815.4—Contract Pricing</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -103,20 +98,17 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_403_170_T48_6041814312.dita#Section_1815_403_170_T48_6041814312">1815.403-170 Waivers of certified cost or pricing data.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_403–170_T48_6041814312.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_404_471_T48_6041814313.dita#Section_1815_404_471_T48_6041814313">1815.404-471 NASA structured approach for profit or fee objective.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_404–471_T48_6041814313.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_404_472_T48_6041814314.dita#Section_1815_404_472_T48_6041814314">1815.404-472 Payment of profit or fee under letter contracts.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_404–472_T48_6041814314.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -127,8 +119,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_407_2_T48_6041814316.dita#Section_1815_407_2_T48_6041814316">1815.407-2 Make-or-buy programs. (NASA supplements paragraph (e))</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_407–2_T48_6041814316.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -139,8 +130,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_408_70_T48_6041814318.dita#Section_1815_408_70_T48_6041814318">1815.408-70 NASA solicitation provisions and contract clauses.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_408–70_T48_6041814318.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -148,7 +138,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1815_5_T48_60418144.dita#Subpart_1815_5_T48_60418144">Subpart 1815.5 - Preaward, Award, and Postaward Notifications, Protests, and Mistakes</xref>
+                        href="Subpart_1815_5_T48_60418144.dita#Subpart_1815_5_T48_60418144">Subpart 1815.5—Preaward, Award, and Postaward Notifications, Protests, and Mistakes</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -162,7 +152,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1815_6_T48_60418145.dita#Subpart_1815_6_T48_60418145">Subpart 1815.6 - Unsolicited Proposals</xref>
+                        href="Subpart_1815_6_T48_60418145.dita#Subpart_1815_6_T48_60418145">Subpart 1815.6—Unsolicited Proposals</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -185,8 +175,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_606_70_T48_6041814514.dita#Section_1815_606_70_T48_6041814514">1815.606-70 Relationship of unsolicited proposals to NRAs.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_606–70_T48_6041814514.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -197,8 +186,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1815_609_70_T48_6041814516.dita#Section_1815_609_70_T48_6041814516">1815.609-70 Limited use of proposals.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1815_609–70_T48_6041814516.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -212,7 +200,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1815_70_T48_60418146.dita#Subpart_1815_70_T48_60418146">Subpart 1815.70 - Ombudsman</xref>
+                        href="Subpart_1815_70_T48_60418146.dita#Subpart_1815_70_T48_60418146">Subpart 1815.70—Ombudsman</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
