@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1842_T48_6042235">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1842</ph> - CONTRACT ADMINISTRATION AND AUDIT SERVICES</title>
+      <title class="- topic/title ">PART 1842—CONTRACT ADMINISTRATION AND AUDIT SERVICES
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -24,7 +24,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1842_70_T48_60422351.dita#Subpart_1842_70_T48_60422351">Subpart 1842.70 - Additional NASA Contract Clauses</xref>
+                        href="Subpart_1842_70_T48_60422351.dita#Subpart_1842_70_T48_60422351">Subpart 1842.70—Additional NASA Contract Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -56,7 +56,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1842_72_T48_60422353.dita#Subpart_1842_72_T48_60422353">Subpart 1842.72 - NASA Contractor Financial Management Reporting</xref>
+                        href="Subpart_1842_72_T48_60422353.dita#Subpart_1842_72_T48_60422353">Subpart 1842.72—NASA Contractor Financial Management Reporting</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

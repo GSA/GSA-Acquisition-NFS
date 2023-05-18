@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1830_7002–4_T48_6042024118">
+      <title class="- topic/title ">
+         <ph props="autonumber">1830.7002-4</ph> Determining imputed cost of money.</title>
+      <conbody>
+         <p outputclass="List1">(a) Determine the imputed cost of money for an asset under construction, fabrication, or development by applying a cost of money rate (see 1830.7002–2) to the representative investment (see 1830.7002–3).
+</p>
+         <p outputclass="List2">(1) When a representative investment is determined for a cost accounting period in accordance with 1830.7002–3(b)(1) or 1830.7002–3(c)(1), the cost of money rate shall be the time-weighted average rate.
+</p>
+         <p outputclass="List2">(2) When a monthly representative investment is used in accordance with 1830.7002–3(b)(2) or 1830.7002–3(c)(2), the cost of money rate shall be that in effect each month. Under this method, the FCCOM is determined monthly, and the total for the cost accounting period is the sum of the monthly calculations.
+</p>
+         <p outputclass="List1">(b) The imputed cost of money will be capitalized only once in any cost accounting period, either at the end of the accounting period or the end of the construction, fabrication, or development period, whichever comes first.
+</p>
+         <p outputclass="List1">(c) When the construction, fabrication, or development of an asset takes more than one accounting period, the cost of money capitalized for the first accounting period will be included in determining the representative investment for any future cost accounting periods.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

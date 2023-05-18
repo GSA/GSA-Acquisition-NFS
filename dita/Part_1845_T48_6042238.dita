@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1845_T48_6042238">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1845</ph> - GOVERNMENT PROPERTY</title>
+      <title class="- topic/title ">PART 1845—GOVERNMENT PROPERTY
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1845_1_T48_60422381.dita#Subpart_1845_1_T48_60422381">Subpart 1845.1 - General</xref>
+                        href="Subpart_1845_1_T48_60422381.dita#Subpart_1845_1_T48_60422381">Subpart 1845.1—General</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -33,8 +33,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_107_70_T48_6042238112.dita#Section_1845_107_70_T48_6042238112">1845.107-70 NASA solicitation provisions and contract clauses.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_107–70_T48_6042238112.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -42,7 +41,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1845_3_T48_60422382.dita#Subpart_1845_3_T48_60422382">Subpart 1845.3 - Authorizing the Use and Rental of Government Property</xref>
+                        href="Subpart_1845_3_T48_60422382.dita#Subpart_1845_3_T48_60422382">Subpart 1845.3—Authorizing the Use and Rental of Government Property</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -62,31 +61,27 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1845_5_T48_60422384.dita#Subpart_1845_5_T48_60422384">Subpart 1845.5 - Support Government Property Administration</xref>
+                        href="Subpart_1845_5_T48_60422384.dita#Subpart_1845_5_T48_60422384">Subpart 1845.5—Support Government Property Administration</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_501_70_T48_6042238411.dita#Section_1845_501_70_T48_6042238411">1845.501-70 General.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_501–70_T48_6042238411.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_503_70_T48_6042238412.dita#Section_1845_503_70_T48_6042238412">1845.503-70 Delegations of property administration and plant clearance.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_503–70_T48_6042238412.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_505_70_T48_6042238413.dita#Section_1845_505_70_T48_6042238413">1845.505-70 Responsibilities of the property administrator.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_505–70_T48_6042238413.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_506_70_T48_6042238414.dita#Section_1845_506_70_T48_6042238414">1845.506-70 Responsibilities of the plant clearance officer.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_506–70_T48_6042238414.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -94,7 +89,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1845_6_T48_60422385.dita#Subpart_1845_6_T48_60422385">Subpart 1845.6 - Reporting, Redistribution, and Disposal of Contractor Inventory</xref>
+                        href="Subpart_1845_6_T48_60422385.dita#Subpart_1845_6_T48_60422385">Subpart 1845.6—Reporting, Redistribution, and Disposal of Contractor Inventory</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -105,8 +100,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_606_70_T48_6042238512.dita#Section_1845_606_70_T48_6042238512">1845.606-70 Contractor's approved scrap procedure.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_606–70_T48_6042238512.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -117,20 +111,17 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_607_1_T48_6042238514.dita#Section_1845_607_1_T48_6042238514">1845.607-1 General.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_607–1_T48_6042238514.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_607_170_T48_6042238515.dita#Section_1845_607_170_T48_6042238515">1845.607-170 Contractor's approved scrap procedure.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_607–170_T48_6042238515.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_607_2_T48_6042238516.dita#Section_1845_607_2_T48_6042238516">1845.607-2 Recovering precious metals. (NASA supplements paragraph (b)).</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_607–2_T48_6042238516.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -141,8 +132,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_610_4_T48_6042238518.dita#Section_1845_610_4_T48_6042238518">1845.610-4 Contractor inventory in foreign countries.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_610–4_T48_6042238518.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -150,7 +140,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1845_71_T48_60422386.dita#Subpart_1845_71_T48_60422386">Subpart 1845.71 - Forms Preparation</xref>
+                        href="Subpart_1845_71_T48_60422386.dita#Subpart_1845_71_T48_60422386">Subpart 1845.71—Forms Preparation</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -161,32 +151,27 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_7101_1_T48_6042238612.dita#Section_1845_7101_1_T48_6042238612">1845.7101-1 Property classification.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_7101–1_T48_6042238612.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_7101_2_T48_6042238613.dita#Section_1845_7101_2_T48_6042238613">1845.7101-2 Transfers of property.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_7101–2_T48_6042238613.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_7101_3_T48_6042238614.dita#Section_1845_7101_3_T48_6042238614">1845.7101-3 Unit acquisition cost.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_7101–3_T48_6042238614.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_7101_4_T48_6042238615.dita#Section_1845_7101_4_T48_6042238615">1845.7101-4 Types of deletions from contractor property records.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_7101–4_T48_6042238615.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1845_7101_5_T48_6042238616.dita#Section_1845_7101_5_T48_6042238616">1845.7101-5 Contractor's privileged financial and business information.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1845_7101–5_T48_6042238616.dita#"/>
                      </p>
                   </li>
                </ul>

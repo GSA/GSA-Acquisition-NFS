@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1832_T48_6042026">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1832</ph> - CONTRACT FINANCING</title>
+      <title class="- topic/title ">PART 1832—CONTRACT FINANCING
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1832_1_T48_60420261.dita#Subpart_1832_1_T48_60420261">Subpart 1832.1 - Non-Commercial Item Purchase Financing</xref>
+                        href="Subpart_1832_1_T48_60420261.dita#Subpart_1832_1_T48_60420261">Subpart 1832.1—Non-Commercial Item Purchase Financing</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -33,8 +33,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_111_70_T48_6042026112.dita#Section_1832_111_70_T48_6042026112">1832.111-70 NASA contract clause.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_111–70_T48_6042026112.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -42,13 +41,12 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1832_2_T48_60420262.dita#Subpart_1832_2_T48_60420262">Subpart 1832.2 - Commercial Item Purchase Financing</xref>
+                        href="Subpart_1832_2_T48_60420262.dita#Subpart_1832_2_T48_60420262">Subpart 1832.2—Commercial Item Purchase Financing</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_202_1_T48_6042026211.dita#Section_1832_202_1_T48_6042026211">1832.202-1 Policy. (NASA supplements paragraph (b))</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_202–1_T48_6042026211.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -62,7 +60,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1832_4_T48_60420263.dita#Subpart_1832_4_T48_60420263">Subpart 1832.4 - Advance Payments for Non-Commercial Items</xref>
+                        href="Subpart_1832_4_T48_60420263.dita#Subpart_1832_4_T48_60420263">Subpart 1832.4—Advance Payments for Non-Commercial Items</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -73,8 +71,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_412_70_T48_6042026312.dita#Section_1832_412_70_T48_6042026312">1832.412-70 NASA Contract clauses.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_412–70_T48_6042026312.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -82,7 +79,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1832_5_T48_60420264.dita#Subpart_1832_5_T48_60420264">Subpart 1832.5 - Progress Payments Based on Costs</xref>
+                        href="Subpart_1832_5_T48_60420264.dita#Subpart_1832_5_T48_60420264">Subpart 1832.5—Progress Payments Based on Costs</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -93,20 +90,17 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_501_1_T48_6042026412.dita#Section_1832_501_1_T48_6042026412">1832.501-1 Customary progress payment rates. (NASA supplements paragraph (a))</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_501–1_T48_6042026412.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_502_4_T48_6042026413.dita#Section_1832_502_4_T48_6042026413">1832.502-4 Contract clauses.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_502–4_T48_6042026413.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_502_470_T48_6042026414.dita#Section_1832_502_470_T48_6042026414">1832.502-470 NASA contract clause.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_502–470_T48_6042026414.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -114,7 +108,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1832_7_T48_60420265.dita#Subpart_1832_7_T48_60420265">Subpart 1832.7 - Contract Funding</xref>
+                        href="Subpart_1832_7_T48_60420265.dita#Subpart_1832_7_T48_60420265">Subpart 1832.7—Contract Funding</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -125,14 +119,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_705_2_T48_6042026512.dita#Section_1832_705_2_T48_6042026512">1832.705-2 Clauses for limitation of cost or funds.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_705–2_T48_6042026512.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_705_270_T48_6042026513.dita#Section_1832_705_270_T48_6042026513">1832.705-270 NASA clauses for limitation of cost or funds.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_705–270_T48_6042026513.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -140,7 +132,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1832_9_T48_60420266.dita#Subpart_1832_9_T48_60420266">Subpart 1832.9 - Prompt Payment</xref>
+                        href="Subpart_1832_9_T48_60420266.dita#Subpart_1832_9_T48_60420266">Subpart 1832.9—Prompt Payment</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -151,8 +143,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1832_908_70_T48_6042026612.dita#Section_1832_908_70_T48_6042026612">1832.908-70 Submission of vouchers/invoices.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1832_908–70_T48_6042026612.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -160,7 +151,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1832_10_T48_60420267.dita#Subpart_1832_10_T48_60420267">Subpart 1832.10 - Performance-Based Payments</xref>
+                        href="Subpart_1832_10_T48_60420267.dita#Subpart_1832_10_T48_60420267">Subpart 1832.10—Performance-Based Payments</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -180,7 +171,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1832_11_T48_60420268.dita#Subpart_1832_11_T48_60420268">Subpart 1832.11 - Electronic Funds Transfer</xref>
+                        href="Subpart_1832_11_T48_60420268.dita#Subpart_1832_11_T48_60420268">Subpart 1832.11—Electronic Funds Transfer</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

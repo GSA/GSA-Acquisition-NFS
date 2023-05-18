@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1827_T48_6042022">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1827</ph> - PATENTS, DATA, AND COPYRIGHTS</title>
+      <title class="- topic/title ">PART 1827—PATENTS, DATA, AND COPYRIGHTS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -30,7 +30,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1827_3_T48_60420221.dita#Subpart_1827_3_T48_60420221">Subpart 1827.3 - Patent Rights Under Government Contracts</xref>
+                        href="Subpart_1827_3_T48_60420221.dita#Subpart_1827_3_T48_60420221">Subpart 1827.3—Patent Rights Under Government Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -59,26 +59,22 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1827_304_1_T48_6042022115.dita#Section_1827_304_1_T48_6042022115">1827.304-1 General.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1827_304–1_T48_6042022115.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1827_304_2_T48_6042022116.dita#Section_1827_304_2_T48_6042022116">1827.304-2 Contracts placed by or for other Government agencies.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1827_304–2_T48_6042022116.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1827_304_3_T48_6042022117.dita#Section_1827_304_3_T48_6042022117">1827.304-3 Subcontracts.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1827_304–3_T48_6042022117.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1827_304_4_T48_6042022118.dita#Section_1827_304_4_T48_6042022118">1827.304-4 Appeals.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1827_304–4_T48_6042022118.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -89,8 +85,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1827_305_3_T48_60420221110.dita#Section_1827_305_3_T48_60420221110">1827.305-3 Securing invention rights acquired by the Government.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1827_305–3_T48_60420221110.dita#"/>
                      </p>
                   </li>
                </ul>
@@ -98,7 +93,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1827_4_T48_60420222.dita#Subpart_1827_4_T48_60420222">Subpart 1827.4 - Rights in Data and Copyrights</xref>
+                        href="Subpart_1827_4_T48_60420222.dita#Subpart_1827_4_T48_60420222">Subpart 1827.4—Rights in Data and Copyrights</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -109,8 +104,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1827_404_4_T48_6042022212.dita#Section_1827_404_4_T48_6042022212">1827.404-4 Contractor's release, publication, and use of data.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1827_404–4_T48_6042022212.dita#"/>
                      </p>
                   </li>
                   <li>

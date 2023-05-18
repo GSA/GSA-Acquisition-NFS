@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1844_T48_6042237">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1844</ph> - SUBCONTRACTING POLICIES AND PROCEDURES</title>
+      <title class="- topic/title ">PART 1844—SUBCONTRACTING POLICIES AND PROCEDURES
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1844_2_T48_60422371.dita#Subpart_1844_2_T48_60422371">Subpart 1844.2 - Consent to Subcontracts</xref>
+                        href="Subpart_1844_2_T48_60422371.dita#Subpart_1844_2_T48_60422371">Subpart 1844.2—Consent to Subcontracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -33,8 +33,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1844_204_70_T48_6042237112.dita#Section_1844_204_70_T48_6042237112">1844.204-70 NASA contract clause.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1844_204–70_T48_6042237112.dita#"/>
                      </p>
                   </li>
                </ul>

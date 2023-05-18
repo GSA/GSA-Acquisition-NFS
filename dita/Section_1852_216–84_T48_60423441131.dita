@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_216–84_T48_60423441131">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.216-84</ph> Estimated cost and incentive fee.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1816.406–70(d), insert the following clause: 
+</p>
+                                 <p xtrc="HD1">Estimated Cost and Incentive Fee (OCT 1996)
+</p>
+                                 <p xtrc="P">The target cost of this contract is $______. The target fee of this contract is $______. The total target cost and target fee as contemplated by the Incentive Fee clause of this contract are $______.
+</p>
+                                 <p xtrc="P">The maximum fee is $______.
+</p>
+                                 <p xtrc="P">The minimum fee is $______.
+</p>
+                                 <p xtrc="P">The cost sharing for cost underruns is: Government ____ percent; Contractor ____ percent.
+</p>
+                                 <p xtrc="P">The cost sharing for cost overruns is: Government ____ percent; Contractor ____ percent.</p>
+                              <p xtrc="HD3">(End of clause) 
+</p>
+      </conbody>
+   </concept>
+</dita>
