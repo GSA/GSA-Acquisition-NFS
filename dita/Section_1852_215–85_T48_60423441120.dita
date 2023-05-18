@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept outputclass="Section" id="Section_1852_215–85_T48_60423441120">
+   <concept outputclass="Section" id="Section_1852_215-85_T48_60423441120">
       <title class="- topic/title ">
          <ph props="autonumber">1852.215-85</ph> Proposal adequacy checklist.</title>
       <conbody>
@@ -38,11 +38,15 @@
                                           </row>
                   </thead>
                   <tbody>
-                     <row rowsep="1">
-                                             <entry colname="1" align="center">
-                                                GENERAL INSTRUCTIONS
-                                             </entry>
-                                          </row>
+                     <row
+                        rowsep="1">
+                        <entry
+                           colname="1"
+                           align="center"> GENERAL INSTRUCTIONS </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">1. FAR 15.408, Table 15–2, Section I Paragraph A</entry>
                                              <entry colname="2" align="left">Is there a properly completed first page of the proposal per FAR 15.408 Table 15–2 I.A or as specified in the solicitation?</entry>
@@ -189,10 +193,16 @@
                                              <entry colname="1" align="center">
                                                 COST ELEMENTS
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="center">MATERIALS AND SERVICES
 </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">14. FAR 15.408, Table 15–2, Section II Paragraph A</entry>
@@ -204,6 +214,9 @@
                                              <entry colname="1" align="center">
                                                 SUBCONTRACTS (Purchased materials or services)
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">15. FAR 15.404–3(c)
@@ -229,6 +242,9 @@ FAR 52.244–2</entry>
                                              <entry colname="1" align="center">
                                                 EXCEPTIONS TO CERTIFIED COST OR PRICING DATA
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">17. FAR 52.215–20
@@ -282,6 +298,9 @@ FAR 2.101, “commercial item”</entry>
                                              <entry colname="1" align="center">
                                                 INTERORGANIZATIONAL TRANSFERS
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">19. FAR 15.408, Table 15–2, Section II Paragraph A.(2)</entry>
@@ -299,6 +318,9 @@ FAR 2.101, “commercial item”</entry>
                                              <entry colname="1" align="center">
                                                 DIRECT LABOR
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">21. FAR 15.408, Table 15–2, Section II Paragraph B</entry>
@@ -322,6 +344,9 @@ FAR 2.101, “commercial item”</entry>
                                              <entry colname="1" align="center">
                                                 INDIRECT COSTS
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">24. FAR 15.408, Table 15–2, Section II Paragraph C</entry>
@@ -333,6 +358,9 @@ FAR 2.101, “commercial item”</entry>
                                              <entry colname="1" align="center">
                                                 OTHER COSTS
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">25. FAR 15.408, Table 15–2, Section II Paragraph D</entry>
@@ -356,6 +384,9 @@ FAR 2.101, “commercial item”</entry>
                                              <entry colname="1" align="center">
                                                 FORMATS FOR SUBMISSION OF LINE ITEM SUMMARIES
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">28. FAR 15.408, Table 15–2, Section III</entry>
@@ -379,6 +410,9 @@ FAR 2.101, “commercial item”</entry>
                                              <entry colname="1" align="center">
                                                 OTHER
                                              </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">31. FAR 16.4</entry>
