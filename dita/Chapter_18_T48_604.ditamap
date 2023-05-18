@@ -11,15 +11,15 @@
                 href="Chapter_18_T48_604.dita"
                 props="CHAPTER 18—NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"/>
    </topicref>
-   <topicref navtitle="SUBCHAPTER A—GENERAL&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER A—GENERAL"
              href="Subchapter_A_T48_60416.dita"
              props="SUBCHAPTER A—GENERAL"
              outputclass="SubChapter">
-      <topicref navtitle="PART 1800 [RESERVED]&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 1800 [RESERVED]"
                 href="Part_1800_T48_604161.dita"
                 props="PART 1800"
                 outputclass="Part"/>
-      <topicref navtitle="PART 1801—FEDERAL ACQUISITION REGULATIONS SYSTEM&#xA;"
+      <topicref navtitle="PART 1801—FEDERAL ACQUISITION REGULATIONS SYSTEM"
                 href="Part_1801_T48_604162.dita"
                 props="PART 1801—FEDERAL ACQUISITION REGULATIONS SYSTEM"
                 outputclass="Part">
@@ -57,7 +57,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1803—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;"
+      <topicref navtitle="PART 1803—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
                 href="Part_1803_T48_604163.dita"
                 props="PART 1803—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
                 outputclass="Part">
@@ -125,7 +125,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1804—ADMINISTRATIVE MATTERS&#xA;"
+      <topicref navtitle="PART 1804—ADMINISTRATIVE MATTERS"
                 href="Part_1804_T48_604164.dita"
                 props="PART 1804—ADMINISTRATIVE MATTERS"
                 outputclass="Part">
@@ -169,11 +169,11 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER B—COMPETITION AND ACQUISITION PLANNING&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER B—COMPETITION AND ACQUISITION PLANNING"
              href="Subchapter_B_T48_60417.dita"
              props="SUBCHAPTER B—COMPETITION AND ACQUISITION PLANNING"
              outputclass="SubChapter">
-      <topicref navtitle="PART 1805—PUBLICIZING CONTRACT ACTIONS&#xA;"
+      <topicref navtitle="PART 1805—PUBLICIZING CONTRACT ACTIONS"
                 href="Part_1805_T48_604175.dita"
                 props="PART 1805—PUBLICIZING CONTRACT ACTIONS"
                 outputclass="Part">
@@ -187,7 +187,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1806—COMPETITION REQUIREMENTS&#xA;"
+      <topicref navtitle="PART 1806—COMPETITION REQUIREMENTS"
                 href="Part_1806_T48_604176.dita"
                 props="PART 1806—COMPETITION REQUIREMENTS"
                 outputclass="Part">
@@ -201,7 +201,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1807—ACQUISITION PLANNING&#xA;"
+      <topicref navtitle="PART 1807—ACQUISITION PLANNING"
                 href="Part_1807_T48_604177.dita"
                 props="PART 1807—ACQUISITION PLANNING"
                 outputclass="Part">
@@ -219,7 +219,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1808—REQUIRED SOURCES OF SUPPLIES AND SERVICES&#xA;"
+      <topicref navtitle="PART 1808—REQUIRED SOURCES OF SUPPLIES AND SERVICES"
                 href="Part_1808_T48_604178.dita"
                 props="PART 1808—REQUIRED SOURCES OF SUPPLIES AND SERVICES"
                 outputclass="Part">
@@ -233,7 +233,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1809—CONTRACTOR QUALIFICATIONS&#xA;"
+      <topicref navtitle="PART 1809—CONTRACTOR QUALIFICATIONS"
                 href="Part_1809_T48_604179.dita"
                 props="PART 1809—CONTRACTOR QUALIFICATIONS"
                 outputclass="Part">
@@ -290,7 +290,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1811—DESCRIBING AGENCY NEEDS&#xA;"
+      <topicref navtitle="PART 1811—DESCRIBING AGENCY NEEDS"
                 href="Part_1811_T48_6041710.dita"
                 props="PART 1811—DESCRIBING AGENCY NEEDS"
                 outputclass="Part">
@@ -304,7 +304,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1812—ACQUISITION OF COMMERCIAL ITEMS&#xA;"
+      <topicref navtitle="PART 1812—ACQUISITION OF COMMERCIAL ITEMS"
                 href="Part_1812_T48_6041711.dita"
                 props="PART 1812—ACQUISITION OF COMMERCIAL ITEMS"
                 outputclass="Part">
@@ -328,11 +328,11 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES"
              href="Subchapter_C_T48_60418.dita"
              props="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES"
              outputclass="SubChapter">
-      <topicref navtitle="PART 1813—SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
+      <topicref navtitle="PART 1813—SIMPLIFIED ACQUISITION PROCEDURES"
                 href="Part_1813_T48_6041812.dita"
                 props="PART 1813—SIMPLIFIED ACQUISITION PROCEDURES"
                 outputclass="Part">
@@ -350,7 +350,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1814—SEALED BIDDING&#xA;"
+      <topicref navtitle="PART 1814—SEALED BIDDING"
                 href="Part_1814_T48_6041813.dita"
                 props="PART 1814—SEALED BIDDING"
                 outputclass="Part">
@@ -377,7 +377,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1815—CONTRACTING BY NEGOTIATION&#xA;"
+      <topicref navtitle="PART 1815—CONTRACTING BY NEGOTIATION"
                 href="Part_1815_T48_6041814.dita"
                 props="PART 1815—CONTRACTING BY NEGOTIATION"
                 outputclass="Part">
@@ -520,7 +520,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1816—TYPES OF CONTRACTS&#xA;"
+      <topicref navtitle="PART 1816—TYPES OF CONTRACTS"
                 href="Part_1816_T48_6041815.dita"
                 props="PART 1816—TYPES OF CONTRACTS"
                 outputclass="Part">
@@ -637,7 +637,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1817—SPECIAL CONTRACTING METHODS&#xA;"
+      <topicref navtitle="PART 1817—SPECIAL CONTRACTING METHODS"
                 href="Part_1817_T48_6041816.dita"
                 props="PART 1817—SPECIAL CONTRACTING METHODS"
                 outputclass="Part">
@@ -665,11 +665,11 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS &#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS "
              href="Subchapter_D_T48_60419.dita"
              props="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS"
              outputclass="SubChapter">
-      <topicref navtitle="PART 1819—SMALL BUSINESS PROGRAMS&#xA;"
+      <topicref navtitle="PART 1819—SMALL BUSINESS PROGRAMS"
                 href="Part_1819_T48_6041917.dita"
                 props="PART 1819—SMALL BUSINESS PROGRAMS"
                 outputclass="Part">
@@ -770,7 +770,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1822—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS &#xA;"
+      <topicref navtitle="PART 1822—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS "
                 href="Part_1822_T48_6041918.dita"
                 props="PART 1822—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS"
                 outputclass="Part">
@@ -784,7 +784,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE&#xA;"
+      <topicref navtitle="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE"
                 href="Part_1823_T48_6041919.dita"
                 props="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE"
                 outputclass="Part">
@@ -837,7 +837,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1824—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;"
+      <topicref navtitle="PART 1824—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
                 href="Part_1824_T48_6041920.dita"
                 props="PART 1824—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
                 outputclass="Part">
@@ -851,7 +851,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1825—FOREIGN ACQUISITION &#xA;"
+      <topicref navtitle="PART 1825—FOREIGN ACQUISITION "
                 href="Part_1825_T48_6041921.dita"
                 props="PART 1825—FOREIGN ACQUISITION"
                 outputclass="Part">
@@ -909,11 +909,11 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS &#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS "
              href="Subchapter_E_T48_60420.dita"
              props="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS"
              outputclass="SubChapter">
-      <topicref navtitle="PART 1827—PATENTS, DATA, AND COPYRIGHTS&#xA;"
+      <topicref navtitle="PART 1827—PATENTS, DATA, AND COPYRIGHTS"
                 href="Part_1827_T48_6042022.dita"
                 props="PART 1827—PATENTS, DATA, AND COPYRIGHTS"
                 outputclass="Part">
@@ -984,7 +984,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1828—BONDS AND INSURANCE&#xA;"
+      <topicref navtitle="PART 1828—BONDS AND INSURANCE"
                 href="Part_1828_T48_6042023.dita"
                 props="PART 1828—BONDS AND INSURANCE"
                 outputclass="Part">
@@ -1022,7 +1022,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1830—COST ACCOUNTING STANDARDS ADMINISTRATION&#xA;"
+      <topicref navtitle="PART 1830—COST ACCOUNTING STANDARDS ADMINISTRATION"
                 href="Part_1830_T48_6042024.dita"
                 props="PART 1830—COST ACCOUNTING STANDARDS ADMINISTRATION"
                 outputclass="Part">
@@ -1064,7 +1064,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1831—CONTRACT COST PRINCIPLES AND PROCEDURES&#xA;"
+      <topicref navtitle="PART 1831—CONTRACT COST PRINCIPLES AND PROCEDURES"
                 href="Part_1831_T48_6042025.dita"
                 props="PART 1831—CONTRACT COST PRINCIPLES AND PROCEDURES"
                 outputclass="Part">
@@ -1086,7 +1086,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1832—CONTRACT FINANCING&#xA;"
+      <topicref navtitle="PART 1832—CONTRACT FINANCING"
                 href="Part_1832_T48_6042026.dita"
                 props="PART 1832—CONTRACT FINANCING"
                 outputclass="Part">
@@ -1203,7 +1203,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1833—PROTESTS, DISPUTES, AND APPEALS&#xA;"
+      <topicref navtitle="PART 1833—PROTESTS, DISPUTES, AND APPEALS"
                 href="Part_1833_T48_6042027.dita"
                 props="PART 1833—PROTESTS, DISPUTES, AND APPEALS"
                 outputclass="Part">
@@ -1231,11 +1231,11 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING &#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING "
              href="Subchapter_F_T48_60421.dita"
              props="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING"
              outputclass="SubChapter">
-      <topicref navtitle="PART 1834—MAJOR SYSTEM ACQUISITION &#xA;"
+      <topicref navtitle="PART 1834—MAJOR SYSTEM ACQUISITION "
                 href="Part_1834_T48_6042128.dita"
                 props="PART 1834—MAJOR SYSTEM ACQUISITION"
                 outputclass="Part">
@@ -1257,7 +1257,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1835—RESEARCH AND DEVELOPMENT CONTRACTING&#xA;"
+      <topicref navtitle="PART 1835—RESEARCH AND DEVELOPMENT CONTRACTING"
                 href="Part_1835_T48_6042129.dita"
                 props="PART 1835—RESEARCH AND DEVELOPMENT CONTRACTING"
                 outputclass="Part">
@@ -1274,7 +1274,7 @@
                    props="1835.070"
                    outputclass="Section"/>
       </topicref>
-      <topicref navtitle="PART 1836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS&#xA;"
+      <topicref navtitle="PART 1836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS"
                 href="Part_1836_T48_6042130.dita"
                 props="PART 1836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS"
                 outputclass="Part">
@@ -1327,7 +1327,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1837—SERVICE CONTRACTING&#xA;"
+      <topicref navtitle="PART 1837—SERVICE CONTRACTING"
                 href="Part_1837_T48_6042131.dita"
                 props="PART 1837—SERVICE CONTRACTING"
                 outputclass="Part">
@@ -1378,7 +1378,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1839—ACQUISITION OF INFORMATION TECHNOLOGY &#xA;"
+      <topicref navtitle="PART 1839—ACQUISITION OF INFORMATION TECHNOLOGY "
                 href="Part_1839_T48_6042132.dita"
                 props="PART 1839—ACQUISITION OF INFORMATION TECHNOLOGY"
                 outputclass="Part">
@@ -1397,15 +1397,15 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER G—CONTRACT MANAGEMENT &#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER G—CONTRACT MANAGEMENT "
              href="Subchapter_G_T48_60422.dita"
              props="SUBCHAPTER G—CONTRACT MANAGEMENT"
              outputclass="SubChapter">
-      <topicref navtitle="PART 1840 [RESERVED]&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 1840 [RESERVED]"
                 href="Part_1840_T48_6042233.dita"
                 props="PART 1840"
                 outputclass="Part"/>
-      <topicref navtitle="PART 1841—ACQUISITION OF UTILITY SERVICES &#xA;"
+      <topicref navtitle="PART 1841—ACQUISITION OF UTILITY SERVICES "
                 href="Part_1841_T48_6042234.dita"
                 props="PART 1841—ACQUISITION OF UTILITY SERVICES"
                 outputclass="Part">
@@ -1414,7 +1414,7 @@
                    props="Subpart 1841.5"
                    outputclass="SubPart"/>
       </topicref>
-      <topicref navtitle="PART 1842—CONTRACT ADMINISTRATION AND AUDIT SERVICES&#xA;"
+      <topicref navtitle="PART 1842—CONTRACT ADMINISTRATION AND AUDIT SERVICES"
                 href="Part_1842_T48_6042235.dita"
                 props="PART 1842—CONTRACT ADMINISTRATION AND AUDIT SERVICES"
                 outputclass="Part">
@@ -1453,7 +1453,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1843—CONTRACT MODIFICATIONS&#xA;"
+      <topicref navtitle="PART 1843—CONTRACT MODIFICATIONS"
                 href="Part_1843_T48_6042236.dita"
                 props="PART 1843—CONTRACT MODIFICATIONS"
                 outputclass="Part">
@@ -1471,7 +1471,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1844—SUBCONTRACTING POLICIES AND PROCEDURES&#xA;"
+      <topicref navtitle="PART 1844—SUBCONTRACTING POLICIES AND PROCEDURES"
                 href="Part_1844_T48_6042237.dita"
                 props="PART 1844—SUBCONTRACTING POLICIES AND PROCEDURES"
                 outputclass="Part">
@@ -1489,7 +1489,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1845—GOVERNMENT PROPERTY&#xA;"
+      <topicref navtitle="PART 1845—GOVERNMENT PROPERTY"
                 href="Part_1845_T48_6042238.dita"
                 props="PART 1845—GOVERNMENT PROPERTY"
                 outputclass="Part">
@@ -1607,7 +1607,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1846—QUALITY ASSURANCE&#xA;"
+      <topicref navtitle="PART 1846—QUALITY ASSURANCE"
                 href="Part_1846_T48_6042239.dita"
                 props="PART 1846—QUALITY ASSURANCE"
                 outputclass="Part">
@@ -1729,7 +1729,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1847—TRANSPORTATION&#xA;"
+      <topicref navtitle="PART 1847—TRANSPORTATION"
                 href="Part_1847_T48_6042240.dita"
                 props="PART 1847—TRANSPORTATION"
                 outputclass="Part">
@@ -1756,11 +1756,11 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1849—TERMINATION OF CONTRACTS&#xA;"
+      <topicref navtitle="PART 1849—TERMINATION OF CONTRACTS"
                 href="Part_1849_T48_6042241.dita"
                 props="PART 1849—TERMINATION OF CONTRACTS"
                 outputclass="Part"/>
-      <topicref navtitle="PART 1850—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT&#xA;"
+      <topicref navtitle="PART 1850—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT"
                 href="Part_1850_T48_6042242.dita"
                 props="PART 1850—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT"
                 outputclass="Part">
@@ -1818,7 +1818,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1851—USE OF GOVERNMENT SOURCES BY CONTRACTORS&#xA;"
+      <topicref navtitle="PART 1851—USE OF GOVERNMENT SOURCES BY CONTRACTORS"
                 href="Part_1851_T48_6042243.dita"
                 props="PART 1851—USE OF GOVERNMENT SOURCES BY CONTRACTORS"
                 outputclass="Part">
@@ -1833,604 +1833,751 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER H—CLAUSES AND FORMS &#xA;&#xA;&#xA;"
-             href="Subchapter_H_T48_60423.dita"
-             props="SUBCHAPTER H—CLAUSES AND FORMS"
-             outputclass="SubChapter">
-      <topicref navtitle="PART 1852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES&#xA;"
-                href="Part_1852_T48_6042344.dita"
-                props="PART 1852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
-                outputclass="Part">
-         <topicref navtitle="1852.000   Scope of part."
-                   href="Section_1852_000_T48_6042344011.dita"
-                   props="1852.000"
-                   outputclass="Section"/>
-         <topicref navtitle="Subpart 1852.2—Texts of Provisions and Clauses"
-                   href="Subpart_1852_2_T48_60423441.dita"
-                   props="Subpart 1852.2—Texts of Provisions and Clauses"
-                   outputclass="SubPart">
-            <topicref navtitle="1852.203-70   Display of Inspector General Hotline Posters."
-                      href="Section_1852_203–70_T48_6042344111.dita"
-                      props="1852.203-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.203-71   Requirement to inform employees of whistleblower rights."
-                      href="Section_1852_203–71_T48_6042344112.dita"
-                      props="1852.203-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.204-75   Security classification requirements."
-                      href="Section_1852_204–75_T48_6042344113.dita"
-                      props="1852.204-75"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.204-76   Security requirements for unclassified information technology resources."
-                      href="Section_1852_204–76_T48_6042344114.dita"
-                      props="1852.204-76"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.208-81   Restrictions on Printing and Duplicating."
-                      href="Section_1852_208–81_T48_6042344115.dita"
-                      props="1852.208-81"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.209-70   [Reserved]"
-                      href="Section_1852_209–70_T48_6042344116.dita"
-                      props="1852.209-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.209-71   Limitation of future contracting."
-                      href="Section_1852_209–71_T48_6042344117.dita"
-                      props="1852.209-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.209-72   [Reserved]"
-                      href="Section_1852_209–72_T48_6042344118.dita"
-                      props="1852.209-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.211-70   Packaging, handling, and transportation."
-                      href="Section_1852_211–70_T48_6042344119.dita"
-                      props="1852.211-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.213-70   Offeror Representations and Certifications—Other Than Commercial Items."
-                      href="Section_1852_213–70_T48_60423441110.dita"
-                      props="1852.213-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.213-71   Evaluation—Other Than Commercial Items."
-                      href="Section_1852_213–71_T48_60423441111.dita"
-                      props="1852.213-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.214-70   Caution to offerors furnishing descriptive literature."
-                      href="Section_1852_214–70_T48_60423441112.dita"
-                      props="1852.214-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.214-71   Grouping for Aggregate Award."
-                      href="Section_1852_214–71_T48_60423441113.dita"
-                      props="1852.214-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.214-72   Full quantities."
-                      href="Section_1852_214–72_T48_60423441114.dita"
-                      props="1852.214-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.215-77   Preproposal/pre-bid conference."
-                      href="Section_1852_215–77_T48_60423441115.dita"
-                      props="1852.215-77"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.215-78   Make or buy program requirements."
-                      href="Section_1852_215–78_T48_60423441116.dita"
-                      props="1852.215-78"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.215-79   Price adjustment for “Make- or-Buy” changes."
-                      href="Section_1852_215–79_T48_60423441117.dita"
-                      props="1852.215-79"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.215-81   Proposal page limitations."
-                      href="Section_1852_215–81_T48_60423441118.dita"
-                      props="1852.215-81"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.215-84   Ombudsman."
-                      href="Section_1852_215–84_T48_60423441119.dita"
-                      props="1852.215-84"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.215-85   Proposal adequacy checklist."
-                      href="Section_1852_215–85_T48_60423441120.dita"
-                      props="1852.215-85"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-72   Award term."
-                      href="Section_1852_216–72_T48_60423441121.dita"
-                      props="1852.216-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-73   Estimated cost and cost sharing."
-                      href="Section_1852_216–73_T48_60423441122.dita"
-                      props="1852.216-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-74   Estimated cost and fixed fee."
-                      href="Section_1852_216–74_T48_60423441123.dita"
-                      props="1852.216-74"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-75   Payment of fixed fee."
-                      href="Section_1852_216–75_T48_60423441124.dita"
-                      props="1852.216-75"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-76   Award fee for service contracts."
-                      href="Section_1852_216–76_T48_60423441125.dita"
-                      props="1852.216-76"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-77   Award fee for end item contracts."
-                      href="Section_1852_216–77_T48_60423441126.dita"
-                      props="1852.216-77"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-78   Firm fixed price."
-                      href="Section_1852_216–78_T48_60423441127.dita"
-                      props="1852.216-78"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-80   Task ordering procedure."
-                      href="Section_1852_216–80_T48_60423441128.dita"
-                      props="1852.216-80"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-81   Estimated cost."
-                      href="Section_1852_216–81_T48_60423441129.dita"
-                      props="1852.216-81"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-83   Fixed price incentive."
-                      href="Section_1852_216–83_T48_60423441130.dita"
-                      props="1852.216-83"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-84   Estimated cost and incentive fee."
-                      href="Section_1852_216–84_T48_60423441131.dita"
-                      props="1852.216-84"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-85   Estimated cost and award fee."
-                      href="Section_1852_216–85_T48_60423441132.dita"
-                      props="1852.216-85"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-87   [Reserved]"
-                      href="Section_1852_216–87_T48_60423441133.dita"
-                      props="1852.216-87"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-88   Performance incentive."
-                      href="Section_1852_216–88_T48_60423441134.dita"
-                      props="1852.216-88"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-89   Assignment and release forms."
-                      href="Section_1852_216–89_T48_60423441135.dita"
-                      props="1852.216-89"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.216-90   Allowability of legal costs incurred in connection with a whistleblower proceeding."
-                      href="Section_1852_216–90_T48_60423441136.dita"
-                      props="1852.216-90"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.217-70   [Reserved]"
-                      href="Section_1852_217–70_T48_60423441137.dita"
-                      props="1852.217-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.217-71   Phased acquisition using down-selection procedures."
-                      href="Section_1852_217–71_T48_60423441138.dita"
-                      props="1852.217-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.217-72   Phased acquisition using progressive competition down-selection procedures."
-                      href="Section_1852_217–72_T48_60423441139.dita"
-                      props="1852.217-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-11   Special 8(a) contract conditions."
-                      href="Section_1852_219–11_T48_60423441140.dita"
-                      props="1852.219-11"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-18   Notification of competition limited to eligible 8(a) concerns."
-                      href="Section_1852_219–18_T48_60423441141.dita"
-                      props="1852.219-18"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-73   Small business subcontracting plan."
-                      href="Section_1852_219–73_T48_60423441142.dita"
-                      props="1852.219-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-74   [Reserved]"
-                      href="Section_1852_219–74_T48_60423441143.dita"
-                      props="1852.219-74"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-75   Individual Subcontracting Reports."
-                      href="Section_1852_219–75_T48_60423441144.dita"
-                      props="1852.219-75"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-76   [Reserved]"
-                      href="Section_1852_219–76_T48_60423441145.dita"
-                      props="1852.219-76"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-77   NASA Mentor-Protégé Program."
-                      href="Section_1852_219–77_T48_60423441146.dita"
-                      props="1852.219-77"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-79   Mentor requirements and evaluation."
-                      href="Section_1852_219–79_T48_60423441147.dita"
-                      props="1852.219-79"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-80   Limitation on subcontracting—SBIR Phase I program."
-                      href="Section_1852_219–80_T48_60423441148.dita"
-                      props="1852.219-80"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-81   Limitation on subcontracting—SBIR Phase II program."
-                      href="Section_1852_219–81_T48_60423441149.dita"
-                      props="1852.219-81"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-82   Limitation on subcontracting—STTR program."
-                      href="Section_1852_219–82_T48_60423441150.dita"
-                      props="1852.219-82"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-83   Limitation of the principal investigator—SBIR program."
-                      href="Section_1852_219–83_T48_60423441151.dita"
-                      props="1852.219-83"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-84   Limitation of the principal investigator—STTR program."
-                      href="Section_1852_219–84_T48_60423441152.dita"
-                      props="1852.219-84"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.219-85   Conditions for final payment—SBIR and STTR contracts."
-                      href="Section_1852_219–85_T48_60423441153.dita"
-                      props="1852.219-85"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.223-70   Safety and Health Measures and Mishap Reporting."
-                      href="Section_1852_223–70_T48_60423441154.dita"
-                      props="1852.223-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.223-71   Authorization for Radio Frequency Use."
-                      href="Section_1852_223–71_T48_60423441155.dita"
-                      props="1852.223-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.223-72   Safety and health (short form)."
-                      href="Section_1852_223–72_T48_60423441156.dita"
-                      props="1852.223-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.223-73   Safety and health plan."
-                      href="Section_1852_223–73_T48_60423441157.dita"
-                      props="1852.223-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.223-74   Drug- and alcohol-free workforce."
-                      href="Section_1852_223–74_T48_60423441158.dita"
-                      props="1852.223-74"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.223-75   Major breach of safety or security."
-                      href="Section_1852_223–75_T48_60423441159.dita"
-                      props="1852.223-75"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.223-76   Federal Automotive Statistical Tool Reporting."
-                      href="Section_1852_223–76_T48_60423441160.dita"
-                      props="1852.223-76"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.225-8   Duty-free entry of space articles (FEB 2000)."
-                      href="Section_1852_225–8_T48_60423441161.dita"
-                      props="1852.225-8"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.225-70   Export Licenses."
-                      href="Section_1852_225–70_T48_60423441162.dita"
-                      props="1852.225-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.225-72   [Reserved]"
-                      href="Section_1852_225–72_T48_60423441163.dita"
-                      props="1852.225-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-11   Patent Rights—Ownership by the Contractor (APR 2015)."
-                      href="Section_1852_227–11_T48_60423441164.dita"
-                      props="1852.227-11"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-14   Rights In Data—General (APR 2015)."
-                      href="Section_1852_227–14_T48_60423441165.dita"
-                      props="1852.227-14"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-17   [Reserved]"
-                      href="Section_1852_227–17_T48_60423441166.dita"
-                      props="1852.227-17"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-19   Commercial computer software—Restricted rights (JUL 1997)."
-                      href="Section_1852_227–19_T48_60423441167.dita"
-                      props="1852.227-19"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-70   New Technology—Other than a Small Business Firm or Nonprofit Organization."
-                      href="Section_1852_227–70_T48_60423441168.dita"
-                      props="1852.227-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-71   Requests for Waiver of Rights to Inventions."
-                      href="Section_1852_227–71_T48_60423441169.dita"
-                      props="1852.227-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-72   Designation of New Technology Representative and Patent Representative."
-                      href="Section_1852_227–72_T48_60423441170.dita"
-                      props="1852.227-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-84   Patent Rights Clauses."
-                      href="Section_1852_227–84_T48_60423441171.dita"
-                      props="1852.227-84"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-85   Invention Reporting and Rights—Foreign."
-                      href="Section_1852_227–85_T48_60423441172.dita"
-                      props="1852.227-85"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-86   Commercial Computer Software License."
-                      href="Section_1852_227–86_T48_60423441173.dita"
-                      props="1852.227-86"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.227-88   Government-furnished computer software and related technical data."
-                      href="Section_1852_227–88_T48_60423441174.dita"
-                      props="1852.227-88"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.228-70   Aircraft ground and flight risk."
-                      href="Section_1852_228–70_T48_60423441175.dita"
-                      props="1852.228-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.228-71   Aircraft flight risks."
-                      href="Section_1852_228–71_T48_60423441176.dita"
-                      props="1852.228-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.228-75   Minimum insurance coverage."
-                      href="Section_1852_228–75_T48_60423441177.dita"
-                      props="1852.228-75"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.228-76   Cross-waiver of liability for international space station activities."
-                      href="Section_1852_228–76_T48_60423441178.dita"
-                      props="1852.228-76"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.228-78   Cross-waiver of liability for science or space exploration activities unrelated to the International Space Station."
-                      href="Section_1852_228–78_T48_60423441179.dita"
-                      props="1852.228-78"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.228-80   Insurance—Immunity From Tort Liability."
-                      href="Section_1852_228–80_T48_60423441180.dita"
-                      props="1852.228-80"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.228-81   Insurance—Partial Immunity From Tort Liability."
-                      href="Section_1852_228–81_T48_60423441181.dita"
-                      props="1852.228-81"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.228-82   Insurance—Total Immunity From Tort Liability."
-                      href="Section_1852_228–82_T48_60423441182.dita"
-                      props="1852.228-82"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.231-70   Precontract costs."
-                      href="Section_1852_231–70_T48_60423441183.dita"
-                      props="1852.231-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.231-71   Determination of compensation reasonableness."
-                      href="Section_1852_231–71_T48_60423441184.dita"
-                      props="1852.231-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.232-70   NASA modification of FAR 52.232–12."
-                      href="Section_1852_232–70_T48_60423441185.dita"
-                      props="1852.232-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.232-77   Limitation of funds (fixed-price contract)."
-                      href="Section_1852_232–77_T48_60423441186.dita"
-                      props="1852.232-77"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.232-79   Payment for on-site preparatory costs."
-                      href="Section_1852_232–79_T48_60423441187.dita"
-                      props="1852.232-79"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.232-80   Submission of vouchers for payment."
-                      href="Section_1852_232–80_T48_60423441188.dita"
-                      props="1852.232-80"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.232-81   Contract funding."
-                      href="Section_1852_232–81_T48_60423441189.dita"
-                      props="1852.232-81"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.232-82   Submission of requests for progress payments."
-                      href="Section_1852_232–82_T48_60423441190.dita"
-                      props="1852.232-82"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.233-70   Protests to NASA."
-                      href="Section_1852_233–70_T48_60423441191.dita"
-                      props="1852.233-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.234-1   Notice of Earned Value Management System."
-                      href="Section_1852_234–1_T48_60423441192.dita"
-                      props="1852.234-1"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.234-2   Earned Value Management System."
-                      href="Section_1852_234–2_T48_60423441193.dita"
-                      props="1852.234-2"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.235-70   Center for AeroSpace Information."
-                      href="Section_1852_235–70_T48_60423441194.dita"
-                      props="1852.235-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.235-71   Key personnel and facilities."
-                      href="Section_1852_235–71_T48_60423441195.dita"
-                      props="1852.235-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.235-72   Instructions for responding to NASA Research Announcements."
-                      href="Section_1852_235–72_T48_60423441196.dita"
-                      props="1852.235-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.235-73   Final Scientific and Technical Reports."
-                      href="Section_1852_235–73_T48_60423441197.dita"
-                      props="1852.235-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.235-74   Additional Reports of Work—Research and Development."
-                      href="Section_1852_235–74_T48_60423441198.dita"
-                      props="1852.235-74"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.236-71   Additive or deductive items."
-                      href="Section_1852_236–71_T48_60423441199.dita"
-                      props="1852.236-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.236-72   Bids with unit prices."
-                      href="Section_1852_236–72_T48_604234411100.dita"
-                      props="1852.236-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.236-73   Hurricane plan."
-                      href="Section_1852_236–73_T48_604234411101.dita"
-                      props="1852.236-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.236-74   Magnitude of requirement."
-                      href="Section_1852_236–74_T48_604234411102.dita"
-                      props="1852.236-74"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.236-75   Partnering for construction contracts."
-                      href="Section_1852_236–75_T48_604234411103.dita"
-                      props="1852.236-75"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.237-70   Emergency evacuation procedures."
-                      href="Section_1852_237–70_T48_604234411104.dita"
-                      props="1852.237-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.237-71   Pension portability."
-                      href="Section_1852_237–71_T48_604234411105.dita"
-                      props="1852.237-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.237-72   Access to Sensitive Information."
-                      href="Section_1852_237–72_T48_604234411106.dita"
-                      props="1852.237-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.237-73   Release of Sensitive Information."
-                      href="Section_1852_237–73_T48_604234411107.dita"
-                      props="1852.237-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.239-70   Alternate delivery points."
-                      href="Section_1852_239–70_T48_604234411108.dita"
-                      props="1852.239-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.241-70   [Reserved]"
-                      href="Section_1852_241–70_T48_604234411109.dita"
-                      props="1852.241-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.242-71   Travel outside of the United States."
-                      href="Section_1852_242–71_T48_604234411110.dita"
-                      props="1852.242-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.242-72   Denied Access to NASA Facilities."
-                      href="Section_1852_242–72_T48_604234411111.dita"
-                      props="1852.242-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.242-73   NASA contractor financial management reporting."
-                      href="Section_1852_242–73_T48_604234411112.dita"
-                      props="1852.242-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.242-78   Emergency Medical Services and Evacuation."
-                      href="Section_1852_242–78_T48_604234411113.dita"
-                      props="1852.242-78"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.243-70--1852.243-71   [Reserved]"
-                      href="Section_1852_243–70—1852_243–71_T48_604234411114.dita"
-                      props="1852.243-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.243-72   Equitable adjustments."
-                      href="Section_1852_243–72_T48_604234411115.dita"
-                      props="1852.243-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.243-73--1852.243-78   [Reserved]"
-                      href="Section_1852_243–73—1852_243–78_T48_604234411116.dita"
-                      props="1852.243-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.244-70   Geographic participation in the aerospace program."
-                      href="Section_1852_244–70_T48_604234411117.dita"
-                      props="1852.244-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-70   Contractor requests for Government-furnished property."
-                      href="Section_1852_245–70_T48_604234411118.dita"
-                      props="1852.245-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-71   Installation-accountable Government property."
-                      href="Section_1852_245–71_T48_604234411119.dita"
-                      props="1852.245-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-72   Liability for Government property furnished for repair or other services."
-                      href="Section_1852_245–72_T48_604234411120.dita"
-                      props="1852.245-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-73   Financial reporting of NASA property in the custody of contractors."
-                      href="Section_1852_245–73_T48_604234411121.dita"
-                      props="1852.245-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-74   Identification and marking of Government equipment."
-                      href="Section_1852_245–74_T48_604234411122.dita"
-                      props="1852.245-74"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-75   Property management changes."
-                      href="Section_1852_245–75_T48_604234411123.dita"
-                      props="1852.245-75"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-76   List of Government property furnished pursuant to FAR 52.245–1."
-                      href="Section_1852_245–76_T48_604234411124.dita"
-                      props="1852.245-76"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-77   List of Government property furnished pursuant to FAR 52.245–2."
-                      href="Section_1852_245–77_T48_604234411125.dita"
-                      props="1852.245-77"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-78   Physical inventory of capital personal property."
-                      href="Section_1852_245–78_T48_604234411126.dita"
-                      props="1852.245-78"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-79   Records and disposition reports for Government property with potential historic or significant real value."
-                      href="Section_1852_245–79_T48_604234411127.dita"
-                      props="1852.245-79"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-80   Government property management information."
-                      href="Section_1852_245–80_T48_604234411128.dita"
-                      props="1852.245-80"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-81   List of available Government property."
-                      href="Section_1852_245–81_T48_604234411129.dita"
-                      props="1852.245-81"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-82   Occupancy management requirements."
-                      href="Section_1852_245–82_T48_604234411130.dita"
-                      props="1852.245-82"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.245-83   Real property management requirements."
-                      href="Section_1852_245–83_T48_604234411131.dita"
-                      props="1852.245-83"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.246-70   [Reserved]"
-                      href="Section_1852_246–70_T48_604234411132.dita"
-                      props="1852.246-70"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.246-71   Government contract quality assurance functions."
-                      href="Section_1852_246–71_T48_604234411133.dita"
-                      props="1852.246-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.246-72   Material inspection and receiving report."
-                      href="Section_1852_246–72_T48_604234411134.dita"
-                      props="1852.246-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.246-73   Human space flight item."
-                      href="Section_1852_246–73_T48_604234411135.dita"
-                      props="1852.246-73"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.246-74   Contractor Counterfeit Electronic Part Detection and Avoidance."
-                      href="Section_1852_246–74_T48_604234411136.dita"
-                      props="1852.246-74"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.247-71   Protection of the Florida Manatee."
-                      href="Section_1852_247–71_T48_604234411137.dita"
-                      props="1852.247-71"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.247-72   Advance notice of shipment."
-                      href="Section_1852_247–72_T48_604234411138.dita"
-                      props="1852.247-72"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.247-73   Bills of Lading."
-                      href="Section_1852_247–73_T48_604234411139.dita"
-                      props="1852.247-73"
-                      outputclass="Section"/>
+   <topicref
+      navtitle="SUBCHAPTER H—CLAUSES AND FORMS"
+      href="Subchapter_H_T48_60423.dita"
+      props="SUBCHAPTER H—CLAUSES AND FORMS"
+      outputclass="SubChapter">
+      <topicref
+         navtitle="PART 1852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
+         href="Part_1852_T48_6042344.dita"
+         props="PART 1852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
+         outputclass="Part">
+         <topicref
+            navtitle="1852.000   Scope of part."
+            href="Section_1852_000_T48_6042344011.dita"
+            props="1852.000"
+            outputclass="Section"/>
+         <topicref
+            navtitle="Subpart 1852.2—Texts of Provisions and Clauses"
+            href="Subpart_1852_2_T48_60423441.dita"
+            props="Subpart 1852.2—Texts of Provisions and Clauses"
+            outputclass="SubPart">
+            <topicref
+               navtitle="1852.203-70   Display of Inspector General Hotline Posters."
+               href="Section_1852_203–70_T48_6042344111.dita"
+               props="1852.203-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.203-71   Requirement to inform employees of whistleblower rights."
+               href="Section_1852_203–71_T48_6042344112.dita"
+               props="1852.203-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.204-75   Security classification requirements."
+               href="Section_1852_204–75_T48_6042344113.dita"
+               props="1852.204-75"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.204-76   Security requirements for unclassified information technology resources."
+               href="Section_1852_204–76_T48_6042344114.dita"
+               props="1852.204-76"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.208-81   Restrictions on Printing and Duplicating."
+               href="Section_1852_208–81_T48_6042344115.dita"
+               props="1852.208-81"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.209-70   [Reserved]"
+               href="Section_1852_209–70_T48_6042344116.dita"
+               props="1852.209-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.209-71   Limitation of future contracting."
+               href="Section_1852_209–71_T48_6042344117.dita"
+               props="1852.209-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.209-72   [Reserved]"
+               href="Section_1852_209–72_T48_6042344118.dita"
+               props="1852.209-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.211-70   Packaging, handling, and transportation."
+               href="Section_1852_211–70_T48_6042344119.dita"
+               props="1852.211-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.213-70   Offeror Representations and Certifications—Other Than Commercial Items."
+               href="Section_1852_213–70_T48_60423441110.dita"
+               props="1852.213-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.213-71   Evaluation—Other Than Commercial Items."
+               href="Section_1852_213–71_T48_60423441111.dita"
+               props="1852.213-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.214-70   Caution to offerors furnishing descriptive literature."
+               href="Section_1852_214–70_T48_60423441112.dita"
+               props="1852.214-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.214-71   Grouping for Aggregate Award."
+               href="Section_1852_214–71_T48_60423441113.dita"
+               props="1852.214-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.214-72   Full quantities."
+               href="Section_1852_214–72_T48_60423441114.dita"
+               props="1852.214-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.215-77   Preproposal/pre-bid conference."
+               href="Section_1852_215–77_T48_60423441115.dita"
+               props="1852.215-77"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.215-78   Make or buy program requirements."
+               href="Section_1852_215–78_T48_60423441116.dita"
+               props="1852.215-78"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.215-79   Price adjustment for “Make- or-Buy” changes."
+               href="Section_1852_215–79_T48_60423441117.dita"
+               props="1852.215-79"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.215-81   Proposal page limitations."
+               href="Section_1852_215–81_T48_60423441118.dita"
+               props="1852.215-81"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.215-84   Ombudsman."
+               href="Section_1852_215–84_T48_60423441119.dita"
+               props="1852.215-84"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.215-85   Proposal adequacy checklist."
+               href="Section_1852_215–85_T48_60423441120.dita"
+               props="1852.215-85"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-72   Award term."
+               href="Section_1852_216–72_T48_60423441121.dita"
+               props="1852.216-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-73   Estimated cost and cost sharing."
+               href="Section_1852_216–73_T48_60423441122.dita"
+               props="1852.216-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-74   Estimated cost and fixed fee."
+               href="Section_1852_216–74_T48_60423441123.dita"
+               props="1852.216-74"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-75   Payment of fixed fee."
+               href="Section_1852_216–75_T48_60423441124.dita"
+               props="1852.216-75"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-76   Award fee for service contracts."
+               href="Section_1852_216–76_T48_60423441125.dita"
+               props="1852.216-76"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-77   Award fee for end item contracts."
+               href="Section_1852_216–77_T48_60423441126.dita"
+               props="1852.216-77"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-78   Firm fixed price."
+               href="Section_1852_216–78_T48_60423441127.dita"
+               props="1852.216-78"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-80   Task ordering procedure."
+               href="Section_1852_216–80_T48_60423441128.dita"
+               props="1852.216-80"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-81   Estimated cost."
+               href="Section_1852_216–81_T48_60423441129.dita"
+               props="1852.216-81"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-83   Fixed price incentive."
+               href="Section_1852_216–83_T48_60423441130.dita"
+               props="1852.216-83"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-84   Estimated cost and incentive fee."
+               href="Section_1852_216–84_T48_60423441131.dita"
+               props="1852.216-84"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-85   Estimated cost and award fee."
+               href="Section_1852_216–85_T48_60423441132.dita"
+               props="1852.216-85"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-87   [Reserved]"
+               href="Section_1852_216–87_T48_60423441133.dita"
+               props="1852.216-87"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-88   Performance incentive."
+               href="Section_1852_216–88_T48_60423441134.dita"
+               props="1852.216-88"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-89   Assignment and release forms."
+               href="Section_1852_216–89_T48_60423441135.dita"
+               props="1852.216-89"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.216-90   Allowability of legal costs incurred in connection with a whistleblower proceeding."
+               href="Section_1852_216–90_T48_60423441136.dita"
+               props="1852.216-90"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.217-70   [Reserved]"
+               href="Section_1852_217–70_T48_60423441137.dita"
+               props="1852.217-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.217-71   Phased acquisition using down-selection procedures."
+               href="Section_1852_217–71_T48_60423441138.dita"
+               props="1852.217-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.217-72   Phased acquisition using progressive competition down-selection procedures."
+               href="Section_1852_217–72_T48_60423441139.dita"
+               props="1852.217-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-11   Special 8(a) contract conditions."
+               href="Section_1852_219–11_T48_60423441140.dita"
+               props="1852.219-11"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-18   Notification of competition limited to eligible 8(a) concerns."
+               href="Section_1852_219–18_T48_60423441141.dita"
+               props="1852.219-18"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-73   Small business subcontracting plan."
+               href="Section_1852_219–73_T48_60423441142.dita"
+               props="1852.219-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-74   [Reserved]"
+               href="Section_1852_219–74_T48_60423441143.dita"
+               props="1852.219-74"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-75   Individual Subcontracting Reports."
+               href="Section_1852_219–75_T48_60423441144.dita"
+               props="1852.219-75"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-76   [Reserved]"
+               href="Section_1852_219–76_T48_60423441145.dita"
+               props="1852.219-76"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-77   NASA Mentor-Protégé Program."
+               href="Section_1852_219–77_T48_60423441146.dita"
+               props="1852.219-77"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-79   Mentor requirements and evaluation."
+               href="Section_1852_219–79_T48_60423441147.dita"
+               props="1852.219-79"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-80   Limitation on subcontracting—SBIR Phase I program."
+               href="Section_1852_219–80_T48_60423441148.dita"
+               props="1852.219-80"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-81   Limitation on subcontracting—SBIR Phase II program."
+               href="Section_1852_219–81_T48_60423441149.dita"
+               props="1852.219-81"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-82   Limitation on subcontracting—STTR program."
+               href="Section_1852_219–82_T48_60423441150.dita"
+               props="1852.219-82"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-83   Limitation of the principal investigator—SBIR program."
+               href="Section_1852_219–83_T48_60423441151.dita"
+               props="1852.219-83"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-84   Limitation of the principal investigator—STTR program."
+               href="Section_1852_219–84_T48_60423441152.dita"
+               props="1852.219-84"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.219-85   Conditions for final payment—SBIR and STTR contracts."
+               href="Section_1852_219–85_T48_60423441153.dita"
+               props="1852.219-85"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.223-70   Safety and Health Measures and Mishap Reporting."
+               href="Section_1852_223–70_T48_60423441154.dita"
+               props="1852.223-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.223-71   Authorization for Radio Frequency Use."
+               href="Section_1852_223–71_T48_60423441155.dita"
+               props="1852.223-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.223-72   Safety and health (short form)."
+               href="Section_1852_223–72_T48_60423441156.dita"
+               props="1852.223-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.223-73   Safety and health plan."
+               href="Section_1852_223–73_T48_60423441157.dita"
+               props="1852.223-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.223-74   Drug- and alcohol-free workforce."
+               href="Section_1852_223–74_T48_60423441158.dita"
+               props="1852.223-74"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.223-75   Major breach of safety or security."
+               href="Section_1852_223–75_T48_60423441159.dita"
+               props="1852.223-75"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.223-76   Federal Automotive Statistical Tool Reporting."
+               href="Section_1852_223–76_T48_60423441160.dita"
+               props="1852.223-76"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.225-8   Duty-free entry of space articles (FEB 2000)."
+               href="Section_1852_225–8_T48_60423441161.dita"
+               props="1852.225-8"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.225-70   Export Licenses."
+               href="Section_1852_225–70_T48_60423441162.dita"
+               props="1852.225-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.225-72   [Reserved]"
+               href="Section_1852_225–72_T48_60423441163.dita"
+               props="1852.225-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-11   Patent Rights—Ownership by the Contractor (APR 2015)."
+               href="Section_1852_227–11_T48_60423441164.dita"
+               props="1852.227-11"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-14   Rights In Data—General (APR 2015)."
+               href="Section_1852_227–14_T48_60423441165.dita"
+               props="1852.227-14"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-17   [Reserved]"
+               href="Section_1852_227–17_T48_60423441166.dita"
+               props="1852.227-17"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-19   Commercial computer software—Restricted rights (JUL 1997)."
+               href="Section_1852_227–19_T48_60423441167.dita"
+               props="1852.227-19"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-70   New Technology—Other than a Small Business Firm or Nonprofit Organization."
+               href="Section_1852_227–70_T48_60423441168.dita"
+               props="1852.227-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-71   Requests for Waiver of Rights to Inventions."
+               href="Section_1852_227–71_T48_60423441169.dita"
+               props="1852.227-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-72   Designation of New Technology Representative and Patent Representative."
+               href="Section_1852_227–72_T48_60423441170.dita"
+               props="1852.227-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-84   Patent Rights Clauses."
+               href="Section_1852_227–84_T48_60423441171.dita"
+               props="1852.227-84"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-85   Invention Reporting and Rights—Foreign."
+               href="Section_1852_227–85_T48_60423441172.dita"
+               props="1852.227-85"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-86   Commercial Computer Software License."
+               href="Section_1852_227–86_T48_60423441173.dita"
+               props="1852.227-86"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.227-88   Government-furnished computer software and related technical data."
+               href="Section_1852_227–88_T48_60423441174.dita"
+               props="1852.227-88"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.228-70   Aircraft ground and flight risk."
+               href="Section_1852_228–70_T48_60423441175.dita"
+               props="1852.228-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.228-71   Aircraft flight risks."
+               href="Section_1852_228–71_T48_60423441176.dita"
+               props="1852.228-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.228-75   Minimum insurance coverage."
+               href="Section_1852_228–75_T48_60423441177.dita"
+               props="1852.228-75"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.228-76   Cross-waiver of liability for international space station activities."
+               href="Section_1852_228–76_T48_60423441178.dita"
+               props="1852.228-76"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.228-78   Cross-waiver of liability for science or space exploration activities unrelated to the International Space Station."
+               href="Section_1852_228–78_T48_60423441179.dita"
+               props="1852.228-78"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.228-80   Insurance—Immunity From Tort Liability."
+               href="Section_1852_228–80_T48_60423441180.dita"
+               props="1852.228-80"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.228-81   Insurance—Partial Immunity From Tort Liability."
+               href="Section_1852_228–81_T48_60423441181.dita"
+               props="1852.228-81"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.228-82   Insurance—Total Immunity From Tort Liability."
+               href="Section_1852_228–82_T48_60423441182.dita"
+               props="1852.228-82"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.231-70   Precontract costs."
+               href="Section_1852_231–70_T48_60423441183.dita"
+               props="1852.231-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.231-71   Determination of compensation reasonableness."
+               href="Section_1852_231–71_T48_60423441184.dita"
+               props="1852.231-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.232-70   NASA modification of FAR 52.232–12."
+               href="Section_1852_232–70_T48_60423441185.dita"
+               props="1852.232-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.232-77   Limitation of funds (fixed-price contract)."
+               href="Section_1852_232–77_T48_60423441186.dita"
+               props="1852.232-77"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.232-79   Payment for on-site preparatory costs."
+               href="Section_1852_232–79_T48_60423441187.dita"
+               props="1852.232-79"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.232-80   Submission of vouchers for payment."
+               href="Section_1852_232–80_T48_60423441188.dita"
+               props="1852.232-80"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.232-81   Contract funding."
+               href="Section_1852_232–81_T48_60423441189.dita"
+               props="1852.232-81"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.232-82   Submission of requests for progress payments."
+               href="Section_1852_232–82_T48_60423441190.dita"
+               props="1852.232-82"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.233-70   Protests to NASA."
+               href="Section_1852_233–70_T48_60423441191.dita"
+               props="1852.233-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.234-1   Notice of Earned Value Management System."
+               href="Section_1852_234–1_T48_60423441192.dita"
+               props="1852.234-1"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.234-2   Earned Value Management System."
+               href="Section_1852_234–2_T48_60423441193.dita"
+               props="1852.234-2"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.235-70   Center for AeroSpace Information."
+               href="Section_1852_235–70_T48_60423441194.dita"
+               props="1852.235-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.235-71   Key personnel and facilities."
+               href="Section_1852_235–71_T48_60423441195.dita"
+               props="1852.235-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.235-72   Instructions for responding to NASA Research Announcements."
+               href="Section_1852_235–72_T48_60423441196.dita"
+               props="1852.235-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.235-73   Final Scientific and Technical Reports."
+               href="Section_1852_235–73_T48_60423441197.dita"
+               props="1852.235-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.235-74   Additional Reports of Work—Research and Development."
+               href="Section_1852_235–74_T48_60423441198.dita"
+               props="1852.235-74"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.236-71   Additive or deductive items."
+               href="Section_1852_236–71_T48_60423441199.dita"
+               props="1852.236-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.236-72   Bids with unit prices."
+               href="Section_1852_236–72_T48_604234411100.dita"
+               props="1852.236-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.236-73   Hurricane plan."
+               href="Section_1852_236–73_T48_604234411101.dita"
+               props="1852.236-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.236-74   Magnitude of requirement."
+               href="Section_1852_236–74_T48_604234411102.dita"
+               props="1852.236-74"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.236-75   Partnering for construction contracts."
+               href="Section_1852_236–75_T48_604234411103.dita"
+               props="1852.236-75"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.237-70   Emergency evacuation procedures."
+               href="Section_1852_237–70_T48_604234411104.dita"
+               props="1852.237-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.237-71   Pension portability."
+               href="Section_1852_237–71_T48_604234411105.dita"
+               props="1852.237-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.237-72   Access to Sensitive Information."
+               href="Section_1852_237–72_T48_604234411106.dita"
+               props="1852.237-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.237-73   Release of Sensitive Information."
+               href="Section_1852_237–73_T48_604234411107.dita"
+               props="1852.237-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.239-70   Alternate delivery points."
+               href="Section_1852_239–70_T48_604234411108.dita"
+               props="1852.239-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.241-70   [Reserved]"
+               href="Section_1852_241–70_T48_604234411109.dita"
+               props="1852.241-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.242-71   Travel outside of the United States."
+               href="Section_1852_242–71_T48_604234411110.dita"
+               props="1852.242-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.242-72   Denied Access to NASA Facilities."
+               href="Section_1852_242–72_T48_604234411111.dita"
+               props="1852.242-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.242-73   NASA contractor financial management reporting."
+               href="Section_1852_242–73_T48_604234411112.dita"
+               props="1852.242-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.242-78   Emergency Medical Services and Evacuation."
+               href="Section_1852_242–78_T48_604234411113.dita"
+               props="1852.242-78"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.243-70--1852.243-71   [Reserved]"
+               href="Section_1852_243–70—1852_243–71_T48_604234411114.dita"
+               props="1852.243-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.243-72   Equitable adjustments."
+               href="Section_1852_243–72_T48_604234411115.dita"
+               props="1852.243-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.243-73--1852.243-78   [Reserved]"
+               href="Section_1852_243–73—1852_243–78_T48_604234411116.dita"
+               props="1852.243-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.244-70   Geographic participation in the aerospace program."
+               href="Section_1852_244–70_T48_604234411117.dita"
+               props="1852.244-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-70   Contractor requests for Government-furnished property."
+               href="Section_1852_245–70_T48_604234411118.dita"
+               props="1852.245-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-71   Installation-accountable Government property."
+               href="Section_1852_245–71_T48_604234411119.dita"
+               props="1852.245-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-72   Liability for Government property furnished for repair or other services."
+               href="Section_1852_245–72_T48_604234411120.dita"
+               props="1852.245-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-73   Financial reporting of NASA property in the custody of contractors."
+               href="Section_1852_245–73_T48_604234411121.dita"
+               props="1852.245-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-74   Identification and marking of Government equipment."
+               href="Section_1852_245–74_T48_604234411122.dita"
+               props="1852.245-74"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-75   Property management changes."
+               href="Section_1852_245–75_T48_604234411123.dita"
+               props="1852.245-75"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-76   List of Government property furnished pursuant to FAR 52.245–1."
+               href="Section_1852_245–76_T48_604234411124.dita"
+               props="1852.245-76"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-77   List of Government property furnished pursuant to FAR 52.245–2."
+               href="Section_1852_245–77_T48_604234411125.dita"
+               props="1852.245-77"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-78   Physical inventory of capital personal property."
+               href="Section_1852_245–78_T48_604234411126.dita"
+               props="1852.245-78"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-79   Records and disposition reports for Government property with potential historic or significant real value."
+               href="Section_1852_245–79_T48_604234411127.dita"
+               props="1852.245-79"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-80   Government property management information."
+               href="Section_1852_245–80_T48_604234411128.dita"
+               props="1852.245-80"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-81   List of available Government property."
+               href="Section_1852_245–81_T48_604234411129.dita"
+               props="1852.245-81"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-82   Occupancy management requirements."
+               href="Section_1852_245–82_T48_604234411130.dita"
+               props="1852.245-82"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.245-83   Real property management requirements."
+               href="Section_1852_245–83_T48_604234411131.dita"
+               props="1852.245-83"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.246-70   [Reserved]"
+               href="Section_1852_246–70_T48_604234411132.dita"
+               props="1852.246-70"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.246-71   Government contract quality assurance functions."
+               href="Section_1852_246–71_T48_604234411133.dita"
+               props="1852.246-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.246-72   Material inspection and receiving report."
+               href="Section_1852_246–72_T48_604234411134.dita"
+               props="1852.246-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.246-73   Human space flight item."
+               href="Section_1852_246–73_T48_604234411135.dita"
+               props="1852.246-73"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.246-74   Contractor Counterfeit Electronic Part Detection and Avoidance."
+               href="Section_1852_246–74_T48_604234411136.dita"
+               props="1852.246-74"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.247-71   Protection of the Florida Manatee."
+               href="Section_1852_247–71_T48_604234411137.dita"
+               props="1852.247-71"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.247-72   Advance notice of shipment."
+               href="Section_1852_247–72_T48_604234411138.dita"
+               props="1852.247-72"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.247-73   Bills of Lading."
+               href="Section_1852_247–73_T48_604234411139.dita"
+               props="1852.247-73"
+               outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1852.3—Provision and Clause Matrix"
-                   href="Subpart_1852_3_T48_60423442.dita"
-                   props="Subpart 1852.3—Provision and Clause Matrix"
-                   outputclass="SubPart">
-            <topicref navtitle="1852.300   Scope of subpart."
-                      href="Section_1852_300_T48_6042344211.dita"
-                      props="1852.300"
-                      outputclass="Section"/>
-            <topicref navtitle="1852.301   Solicitation provisions and contract clauses (Matrix)."
-                      href="Section_1852_301_T48_6042344212.dita"
-                      props="1852.301"
-                      outputclass="Section"/>
+         <topicref
+            navtitle="Subpart 1852.3—Provision and Clause Matrix"
+            href="Subpart_1852_3_T48_60423442.dita"
+            props="Subpart 1852.3—Provision and Clause Matrix"
+            outputclass="SubPart">
+            <topicref
+               navtitle="1852.300   Scope of subpart."
+               href="Section_1852_300_T48_6042344211.dita"
+               props="1852.300"
+               outputclass="Section"/>
+            <topicref
+               navtitle="1852.301   Solicitation provisions and contract clauses (Matrix)."
+               href="Section_1852_301_T48_6042344212.dita"
+               props="1852.301"
+               outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1853 [RESERVED]&#xA;&#xA;&#xA;"
-                href="Part_1853_T48_6042345.dita"
-                props="PART 1853"
-                outputclass="Part"/>
+      <topicref
+         navtitle="PART 1853 [RESERVED]"
+         href="Part_1853_T48_6042345.dita"
+         props="PART 1853"
+         outputclass="Part"/>
    </topicref>
-   <topicref navtitle="SUBCHAPTER I—AGENCY SUPPLEMENTARY REGULATIONS &#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER I—AGENCY SUPPLEMENTARY REGULATIONS "
              href="Subchapter_I_T48_60424.dita"
              props="SUBCHAPTER I—AGENCY SUPPLEMENTARY REGULATIONS"
              outputclass="SubChapter">
       <topicref
-         navtitle="PARTS 1872–1899 [RESERVED]&#xA;&#xA;&#xA;"
+         navtitle="PARTS 1872–1899 [RESERVED]"
          href="Part_1872-1899_T48_6042446.dita"
          props="PARTS 1872–1899 [RESERVED]"
          outputclass="Part"/>
