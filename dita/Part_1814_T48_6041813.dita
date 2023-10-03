@@ -27,12 +27,14 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Section_1814_201-6_T48_6041813111.dita"/>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1814_201_6_T48_6041813111.dita#Section_1814_201_6_T48_6041813111">1814.201-6 Solicitation provisions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Section_1814_201-670_T48_6041813112.dita"/>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1814_201_670_T48_6041813112.dita#Section_1814_201_670_T48_6041813112">1814.201-670 NASA solicitation provisions.</xref>
                      </p>
                   </li>
                </ul>

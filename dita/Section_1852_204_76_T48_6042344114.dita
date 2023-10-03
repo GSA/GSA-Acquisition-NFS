@@ -6,7 +6,7 @@
       <title class="- topic/title ">
          <ph props="autonumber">1852.204-76</ph> Security requirements for unclassified information technology resources.</title>
       <conbody>
-         <p xtrc="P">As prescribed in 1804.470-4(a), insert the following clause:
+         <p xtrc="P">As prescribed in 1804.470–4(a), insert the following clause:
 </p>
                                  <p xtrc="HD1">Security Requirements for Unclassified Information Technology Resources (JAN 2011)
 </p>
@@ -21,9 +21,9 @@
 </p>
                                  <p outputclass="List2">(2) NASA Electronic Information is any data (as defined in the Rights in Data clause of this contract) or information (including information incidental to contract administration, such as financial, administrative, cost or pricing, or management information) that is processed, managed, accessed or stored on an IT system(s) in the performance of a NASA contract.
 </p>
-                                 <p outputclass="List2">(3) IT Security Management Plan - This plan shall describe the processes and procedures that will be followed to ensure appropriate security of IT resources that are developed, processed, or used under this contract. Unlike the IT security plan, which addresses the IT system, the IT Security Management Plan addresses how the contractor will manage personnel and processes associated with IT Security on the instant contract.
+                                 <p outputclass="List2">(3) IT Security Management Plan—This plan shall describe the processes and procedures that will be followed to ensure appropriate security of IT resources that are developed, processed, or used under this contract. Unlike the IT security plan, which addresses the IT system, the IT Security Management Plan addresses how the contractor will manage personnel and processes associated with IT Security on the instant contract.
 </p>
-                                 <p outputclass="List2">(4) IT Security Plan - this is a FISMA requirement; see the ADL for applicable requirements. The IT Security Plan is specific to the IT System and not the contract. Within 30 days after award, the contractor shall develop and deliver an IT Security Management Plan to the Contracting Officer; the approval authority will be included in the ADL. All contractor personnel requiring physical or logical access to NASA IT resources must complete NASA's annual IT Security Awareness training. Refer to the IT Training policy located in the IT Security Web site at <i>https://itsecurity.nasa.gov/policies/index.html.</i>
+                                 <p outputclass="List2">(4) IT Security Plan—this is a FISMA requirement; see the ADL for applicable requirements. The IT Security Plan is specific to the IT System and not the contract. Within 30 days after award, the contractor shall develop and deliver an IT Security Management Plan to the Contracting Officer; the approval authority will be included in the ADL. All contractor personnel requiring physical or logical access to NASA IT resources must complete NASA's annual IT Security Awareness training. Refer to the IT Training policy located in the IT Security Web site at <i>https://itsecurity.nasa.gov/policies/index.html.</i>
                                  </p>
                                  <p outputclass="List1">(d) The contractor shall afford Government access to the Contractor's and subcontractors' facilities, installations, operations, documentation, databases, and personnel used in performance of the contract. Access shall be provided to the extent required to carry out a program of IT inspection (to include vulnerability testing), investigation and audit to safeguard against threats and hazards to the integrity, availability, and confidentiality of NASA Electronic Information or to the function of IT systems operated on behalf of NASA, and to preserve evidence of computer crime.
 </p>
