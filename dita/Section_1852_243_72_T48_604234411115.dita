@@ -6,11 +6,11 @@
       <title class="- topic/title ">
          <ph props="autonumber">1852.243-72</ph> Equitable adjustments.</title>
       <conbody>
-         <p xtrc="P">As prescribed in 1843.205-70, insert the following clause.
+         <p xtrc="P">As prescribed in 1843.205–70, insert the following clause.
 </p>
                                  <p xtrc="HD1">Equitable Adjustments (APR 1998)
 </p>
-                                 <p outputclass="List1">(a) The provisions of all other clauses contained in this contract which provide for an equitable adjustment, including those clauses incorporated by reference with the exception of the “Suspension of Work” clause (FAR 52.242-14), are supplemented as follows:
+                                 <p outputclass="List1">(a) The provisions of all other clauses contained in this contract which provide for an equitable adjustment, including those clauses incorporated by reference with the exception of the “Suspension of Work” clause (FAR 52.242–14), are supplemented as follows:
 </p>
                                  <p xtrc="P">Upon written request, the Contractor shall submit a proposal for review by the Government. The proposal shall be submitted to the contracting officer within the time limit indicated in the request or any extension thereto subsequently granted. The proposal shall provide an itemized breakdown of all increases and decreases in the contract for the Contractor and each subcontractor in at least the following detail: material quantities and costs; direct labor hours and rates for each trade; the associated FICA, FUTA, SUTA, and Workmen's Compensation Insurance; and equipment hours and rates.
 </p>
@@ -39,15 +39,15 @@
                   <tbody>
                      <row rowsep="1">
                                              <entry colname="1" align="left">To Contractor on work performed by other than its own forces</entry>
-                                             <entry colname="2" align="right"> - </entry>
-                                             <entry colname="3" align="right"> - </entry>
+                                             <entry colname="2" align="right">—</entry>
+                                             <entry colname="3" align="right">—</entry>
                                              <entry colname="4" align="right">10
 </entry>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left">To first tier subcontractor on work performed by its subcontractors</entry>
-                                             <entry colname="2" align="right"> - </entry>
-                                             <entry colname="3" align="right"> - </entry>
+                                             <entry colname="2" align="right">—</entry>
+                                             <entry colname="3" align="right">—</entry>
                                              <entry colname="4" align="right">10
 </entry>
                                           </row>
@@ -55,7 +55,7 @@
                                              <entry colname="1" align="left">To Contractor and/or subcontractors on work performed with their own forces</entry>
                                              <entry colname="2" align="right">10</entry>
                                              <entry colname="3" align="right">10</entry>
-                                             <entry colname="4" align="right"> - </entry>
+                                             <entry colname="4" align="right">—</entry>
                                           </row>
                   </tbody>
                </tgroup>

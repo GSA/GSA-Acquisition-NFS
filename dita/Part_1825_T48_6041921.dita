@@ -27,7 +27,8 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Section_1825_003-70_T48_6041921012.dita"/>
+                  <xref outputclass="fm:TOC"
+                        href="Section_1825_003_70_T48_6041921012.dita#Section_1825_003_70_T48_6041921012">1825.003-70 NASA definitions.</xref>
                </p>
             </li>
             <li>
@@ -92,7 +93,8 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Section_1825_1103-70_T48_6041921413.dita"/>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1825_1103_70_T48_6041921413.dita#Section_1825_1103_70_T48_6041921413">1825.1103-70 Export control.</xref>
                      </p>
                   </li>
                </ul>
