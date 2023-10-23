@@ -13,24 +13,24 @@
    </topicref>
    <topicref navtitle="SUBCHAPTER A—GENERAL&#xA;&#xA;&#xA;"
              href="Subchapter_A_T48_60416.dita"
-             props="SUBCHAPTER A—GENERAL"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter A">
       <topicref navtitle="PART 1800 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1800_T48_604161.dita"
-                props="PART 1800"
-                outputclass="Part"/>
+                outputclass="Part"
+                props="Part 1800"/>
       <topicref navtitle="PART 1801—FEDERAL ACQUISITION REGULATIONS SYSTEM&#xA;"
                 href="Part_1801_T48_604162.dita"
-                props="PART 1801—FEDERAL ACQUISITION REGULATIONS SYSTEM"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1801">
          <topicref navtitle="1801.000   Scope of part."
                    href="Section_1801_000_T48_604162011.dita"
                    props="1801.000"
                    outputclass="Section"/>
          <topicref navtitle="Subpart 1801.1—Purpose, Authority, Issuance"
                    href="Subpart_1801_1_T48_6041621.dita"
-                   props="Subpart 1801.1—Purpose, Authority, Issuance"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1801.1">
             <topicref navtitle="1801.103   Authority. (NASA supplements paragraph (a))"
                       href="Section_1801_103_T48_604162111.dita"
                       props="1801.103"
@@ -59,12 +59,12 @@
       </topicref>
       <topicref navtitle="PART 1803—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;"
                 href="Part_1803_T48_604163.dita"
-                props="PART 1803—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1803">
          <topicref navtitle="Subpart 1803.1—Safeguards"
                    href="Subpart_1803_1_T48_6041631.dita"
-                   props="Subpart 1803.1—Safeguards"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1803.1">
             <topicref navtitle="1803.104   Procurement integrity."
                       href="Section_1803_104_T48_604163111.dita"
                       props="1803.104"
@@ -76,8 +76,8 @@
          </topicref>
          <topicref navtitle="Subpart 1803.9—Contractor Employee Whistleblower Protections"
                    href="Subpart_1803_9_T48_6041632.dita"
-                   props="Subpart 1803.9—Contractor Employee Whistleblower Protections"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1803.9">
             <topicref navtitle="1803.900   Scope of subpart."
                       href="Section_1803_900_T48_604163211.dita"
                       props="1803.900"
@@ -113,8 +113,8 @@
          </topicref>
          <topicref navtitle="Subpart 1803.70—IG Hotline Posters"
                    href="Subpart_1803_70_T48_6041633.dita"
-                   props="Subpart 1803.70—IG Hotline Posters"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1803.70">
             <topicref navtitle="1803.7000   Policy."
                       href="Section_1803_7000_T48_604163311.dita"
                       props="1803.7000"
@@ -127,12 +127,12 @@
       </topicref>
       <topicref navtitle="PART 1804—ADMINISTRATIVE MATTERS&#xA;"
                 href="Part_1804_T48_604164.dita"
-                props="PART 1804—ADMINISTRATIVE MATTERS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1804">
          <topicref navtitle="Subpart 1804.1—Contract Execution"
                    href="Subpart_1804_1_T48_6041641.dita"
-                   props="Subpart 1804.1—Contract Execution"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1804.1">
             <topicref navtitle="1804.170   Contract effective date."
                       href="Section_1804_170_T48_604164111.dita"
                       props="1804.170"
@@ -140,8 +140,8 @@
          </topicref>
          <topicref navtitle="Subpart 1804.4—Safeguarding Classified Information Within Industry"
                    href="Subpart_1804_4_T48_6041642.dita"
-                   props="Subpart 1804.4—Safeguarding Classified Information Within Industry"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1804.4">
             <topicref navtitle="1804.404-70   Contract clause."
                       href="Section_1804_404_70_T48_604164211.dita"
                       props="1804.404-70"
@@ -171,16 +171,16 @@
    </topicref>
    <topicref navtitle="SUBCHAPTER B—COMPETITION AND ACQUISITION PLANNING&#xA;&#xA;&#xA;"
              href="Subchapter_B_T48_60417.dita"
-             props="SUBCHAPTER B—COMPETITION AND ACQUISITION PLANNING"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter B">
       <topicref navtitle="PART 1805—PUBLICIZING CONTRACT ACTIONS&#xA;"
                 href="Part_1805_T48_604175.dita"
-                props="PART 1805—PUBLICIZING CONTRACT ACTIONS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1805">
          <topicref navtitle="Subpart 1805.3—Synopses of Contract Awards"
                    href="Subpart_1805_3_T48_6041751.dita"
-                   props="Subpart 1805.3—Synopses of Contract Awards"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1805.3">
             <topicref navtitle="1805.303   Announcement of contract awards."
                       href="Section_1805_303_T48_604175111.dita"
                       props="1805.303"
@@ -189,12 +189,12 @@
       </topicref>
       <topicref navtitle="PART 1806—COMPETITION REQUIREMENTS&#xA;"
                 href="Part_1806_T48_604176.dita"
-                props="PART 1806—COMPETITION REQUIREMENTS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1806">
          <topicref navtitle="Subpart 1806.2—Full and Open Competition After Exclusion of Sources"
                    href="Subpart_1806_2_T48_6041761.dita"
-                   props="Subpart 1806.2—Full and Open Competition After Exclusion of Sources"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1806.2">
             <topicref navtitle="1806.202   Establishing or maintaining alternative sources. (NASA supplements paragraphs (a) and (b))."
                       href="Section_1806_202_T48_604176111.dita"
                       props="1806.202"
@@ -203,12 +203,12 @@
       </topicref>
       <topicref navtitle="PART 1807—ACQUISITION PLANNING&#xA;"
                 href="Part_1807_T48_604177.dita"
-                props="PART 1807—ACQUISITION PLANNING"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1807">
          <topicref navtitle="Subpart 1807.72—Acquisition Forecasting"
                    href="Subpart_1807_72_T48_6041771.dita"
-                   props="Subpart 1807.72—Acquisition Forecasting"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1807.72">
             <topicref navtitle="1807.7200   Policy."
                       href="Section_1807_7200_T48_604177111.dita"
                       props="1807.7200"
@@ -221,12 +221,12 @@
       </topicref>
       <topicref navtitle="PART 1808—REQUIRED SOURCES OF SUPPLIES AND SERVICES&#xA;"
                 href="Part_1808_T48_604178.dita"
-                props="PART 1808—REQUIRED SOURCES OF SUPPLIES AND SERVICES"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1808">
          <topicref navtitle="Subpart 1808.8—Acquisition of Printing and Related Supplies"
                    href="Subpart_1808_8_T48_6041781.dita"
-                   props="Subpart 1808.8—Acquisition of Printing and Related Supplies"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1808.8">
             <topicref navtitle="1808.870   Contract clause."
                       href="Section_1808_870_T48_604178111.dita"
                       props="1808.870"
@@ -235,12 +235,12 @@
       </topicref>
       <topicref navtitle="PART 1809—CONTRACTOR QUALIFICATIONS&#xA;"
                 href="Part_1809_T48_604179.dita"
-                props="PART 1809—CONTRACTOR QUALIFICATIONS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1809">
          <topicref navtitle="Subpart 1809.1—Responsible Prospective Contractors"
                    href="Subpart_1809_1_T48_6041791.dita"
-                   props="Subpart 1809.1—Responsible Prospective Contractors"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1809.1">
             <topicref navtitle="1809.104-4   Subcontractor responsibility."
                       href="Section_1809_104_4_T48_604179111.dita"
                       props="1809.104-4"
@@ -252,8 +252,8 @@
          </topicref>
          <topicref navtitle="Subpart 1809.2—Qualification requirements"
                    href="Subpart_1809_2_T48_6041792.dita"
-                   props="Subpart 1809.2—Qualification requirements"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1809.2">
             <topicref navtitle="1809.206   Acquisitions subject to qualification requirements."
                       href="Section_1809_206_T48_604179211.dita"
                       props="1809.206"
@@ -265,8 +265,8 @@
          </topicref>
          <topicref navtitle="Subpart 1809.4—Debarment, Suspension, and Ineligibility"
                    href="Subpart_1809_4_T48_6041793.dita"
-                   props="Subpart 1809.4—Debarment, Suspension, and Ineligibility"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1809.4">
             <topicref navtitle="1809.403   Definitions."
                       href="Section_1809_403_T48_604179311.dita"
                       props="1809.403"
@@ -274,8 +274,8 @@
          </topicref>
          <topicref navtitle="Subpart 1809.5—Organizational and Consultant Conflicts of Interest"
                    href="Subpart_1809_5_T48_6041794.dita"
-                   props="Subpart 1809.5—Organizational and Consultant Conflicts of Interest"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1809.5">
             <topicref navtitle="1809.505-4   Obtaining access to sensitive information."
                       href="Section_1809_505_4_T48_604179411.dita"
                       props="1809.505-4"
@@ -292,35 +292,35 @@
       </topicref>
       <topicref navtitle="PART 1811—DESCRIBING AGENCY NEEDS&#xA;"
                 href="Part_1811_T48_6041710.dita"
-                props="PART 1811—DESCRIBING AGENCY NEEDS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1811">
          <topicref navtitle="Subpart 1811.4—Delivery or Performance Schedules"
                    href="Subpart_1811_4_T48_60417101.dita"
-                   props="Subpart 1811.4—Delivery or Performance Schedules"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1811.4">
             <topicref navtitle="1811.404-70   NASA contract clauses."
                       href="Section_1811_404_70_T48_6041710111.dita"
                       props="1811.404-70"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1812—ACQUISITION OF COMMERCIAL ITEMS&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 1812—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES&#xA;&#xA;&#xA;"
                 href="Part_1812_T48_6041711.dita"
-                props="PART 1812—ACQUISITION OF COMMERCIAL ITEMS"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1812.3—Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items"
+                outputclass="Part"
+                props="Part 1812">
+         <topicref navtitle="Subpart 1812.3—Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Products and Commercial Services"
                    href="Subpart_1812_3_T48_60417111.dita"
-                   props="Subpart 1812.3—Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items"
-                   outputclass="SubPart">
-            <topicref navtitle="1812.301   Solicitation provisions and contract clauses for the acquisition of commercial items."
+                   outputclass="SubPart"
+                   props="Subpart 1812.3">
+            <topicref navtitle="1812.301   Solicitation provisions and contract clauses for the acquisition of Commercial Products and Commercial Services."
                       href="Section_1812_301_T48_6041711111.dita"
                       props="1812.301"
                       outputclass="Section"/>
          </topicref>
          <topicref navtitle="Subpart 1812.70—Commercial Space Hardware or Services"
                    href="Subpart_1812_70_T48_60417112.dita"
-                   props="Subpart 1812.70—Commercial Space Hardware or Services"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1812.70">
             <topicref navtitle="1812.7000   Anchor tenancy contracts."
                       href="Section_1812_7000_T48_6041711211.dita"
                       props="1812.7000"
@@ -330,20 +330,20 @@
    </topicref>
    <topicref navtitle="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
              href="Subchapter_C_T48_60418.dita"
-             props="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES"
-             outputclass="SubChapter">
-      <topicref navtitle="PART 1813—SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
+             outputclass="SubChapter"
+             props="SubChapter C">
+      <topicref navtitle="PART 1813—SIMPLIFIED ACQUISITION PROCEDURES&#xA;&#xA;&#xA;"
                 href="Part_1813_T48_6041812.dita"
-                props="PART 1813—SIMPLIFIED ACQUISITION PROCEDURES"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1813">
          <topicref navtitle="1813.003   Policy. (NASA supplements paragraph (g))"
                    href="Section_1813_003_T48_6041812011.dita"
                    props="1813.003"
                    outputclass="Section"/>
          <topicref navtitle="Subpart 1813.3—Simplified Acquisition Methods"
                    href="Subpart_1813_3_T48_60418121.dita"
-                   props="Subpart 1813.3—Simplified Acquisition Methods"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1813.3">
             <topicref navtitle="1813.302-570   NASA solicitation provisions."
                       href="Section_1813_302_570_T48_6041812111.dita"
                       props="1813.302-570"
@@ -352,12 +352,12 @@
       </topicref>
       <topicref navtitle="PART 1814—SEALED BIDDING&#xA;"
                 href="Part_1814_T48_6041813.dita"
-                props="PART 1814—SEALED BIDDING"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1814">
          <topicref navtitle="Subpart 1814.2—Solicitation of Bids"
                    href="Subpart_1814_2_T48_60418131.dita"
-                   props="Subpart 1814.2—Solicitation of Bids"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1814.2">
             <topicref navtitle="1814.201-6   Solicitation provisions."
                       href="Section_1814_201_6_T48_6041813111.dita"
                       props="1814.201-6"
@@ -369,8 +369,8 @@
          </topicref>
          <topicref navtitle="Subpart 1814.3—Submission of Bids"
                    href="Subpart_1814_3_T48_60418132.dita"
-                   props="Subpart 1814.3—Submission of Bids"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1814.3">
             <topicref navtitle="1814.302   Bid submission. (NASA supplements paragraph (b))"
                       href="Section_1814_302_T48_6041813211.dita"
                       props="1814.302"
@@ -379,12 +379,12 @@
       </topicref>
       <topicref navtitle="PART 1815—CONTRACTING BY NEGOTIATION&#xA;"
                 href="Part_1815_T48_6041814.dita"
-                props="PART 1815—CONTRACTING BY NEGOTIATION"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1815">
          <topicref navtitle="Subpart 1815.2—Solicitation and Receipt of Proposals and Information"
                    href="Subpart_1815_2_T48_60418141.dita"
-                   props="Subpart 1815.2—Solicitation and Receipt of Proposals and Information"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1815.2">
             <topicref navtitle="1815.203-72   Risk management."
                       href="Section_1815_203_72_T48_6041814111.dita"
                       props="1815.203-72"
@@ -416,8 +416,8 @@
          </topicref>
          <topicref navtitle="Subpart 1815.3—Source Selection"
                    href="Subpart_1815_3_T48_60418142.dita"
-                   props="Subpart 1815.3—Source Selection"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1815.3">
             <topicref navtitle="1815.305-70   Identification of unacceptable proposals."
                       href="Section_1815_305_70_T48_6041814211.dita"
                       props="1815.305-70"
@@ -429,8 +429,8 @@
          </topicref>
          <topicref navtitle="Subpart 1815.4—Contract Pricing"
                    href="Subpart_1815_4_T48_60418143.dita"
-                   props="Subpart 1815.4—Contract Pricing"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1815.4">
             <topicref navtitle="1815.403   Obtaining certified cost or pricing data."
                       href="Section_1815_403_T48_6041814311.dita"
                       props="1815.403"
@@ -466,8 +466,8 @@
          </topicref>
          <topicref navtitle="Subpart 1815.5—Preaward, Award, and Postaward Notifications, Protests, and Mistakes"
                    href="Subpart_1815_5_T48_60418144.dita"
-                   props="Subpart 1815.5—Preaward, Award, and Postaward Notifications, Protests, and Mistakes"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1815.5">
             <topicref navtitle="1815.504   Award to successful offeror."
                       href="Section_1815_504_T48_6041814411.dita"
                       props="1815.504"
@@ -475,8 +475,8 @@
          </topicref>
          <topicref navtitle="Subpart 1815.6—Unsolicited Proposals"
                    href="Subpart_1815_6_T48_60418145.dita"
-                   props="Subpart 1815.6—Unsolicited Proposals"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1815.6">
             <topicref navtitle="1815.602   Policy."
                       href="Section_1815_602_T48_6041814511.dita"
                       props="1815.602"
@@ -508,8 +508,8 @@
          </topicref>
          <topicref navtitle="Subpart 1815.70—Ombudsman"
                    href="Subpart_1815_70_T48_60418146.dita"
-                   props="Subpart 1815.70—Ombudsman"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1815.70">
             <topicref navtitle="1815.7001   NASA Ombudsman Program."
                       href="Section_1815_7001_T48_6041814611.dita"
                       props="1815.7001"
@@ -522,16 +522,16 @@
       </topicref>
       <topicref navtitle="PART 1816—TYPES OF CONTRACTS&#xA;&#xA;&#xA;"
                 href="Part_1816_T48_6041815.dita"
-                props="PART 1816—TYPES OF CONTRACTS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1816">
          <topicref navtitle="1816.001   Definitions."
                    href="Section_1816_001_T48_6041815011.dita"
                    props="1816.001"
                    outputclass="Section"/>
          <topicref navtitle="Subpart 1816.2—Fixed-Price Contracts"
                    href="Subpart_1816_2_T48_60418151.dita"
-                   props="Subpart 1816.2—Fixed-Price Contracts"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1816.2—Fixed-Price Contracts">
             <topicref navtitle="1816.202   Firm-fixed-price contracts."
                       href="Section_1816_202_T48_6041815111.dita"
                       props="1816.202"
@@ -543,8 +543,8 @@
          </topicref>
          <topicref navtitle="Subpart 1816.3—Cost-Reimbursement Contracts"
                    href="Subpart_1816_3_T48_60418152.dita"
-                   props="Subpart 1816.3—Cost-Reimbursement Contracts"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1816.3—Cost-Reimbursement Contracts">
             <topicref navtitle="1816.303-70   Cost-sharing contracts."
                       href="Section_1816_303_70_T48_6041815211.dita"
                       props="1816.303-70"
@@ -560,8 +560,8 @@
          </topicref>
          <topicref navtitle="Subpart 1816.4—Incentive Contracts"
                    href="Subpart_1816_4_T48_60418153.dita"
-                   props="Subpart 1816.4—Incentive Contracts"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1816.4">
             <topicref navtitle="1816.402   Application of predetermined, formula-type incentives. (NASA paragraphs 1, 2 and 3)."
                       href="Section_1816_402_T48_6041815311.dita"
                       props="1816.402"
@@ -629,8 +629,8 @@
          </topicref>
          <topicref navtitle="Subpart 1816.5—Indefinite-Delivery Contracts"
                    href="Subpart_1816_5_T48_60418154.dita"
-                   props="Subpart 1816.5—Indefinite-Delivery Contracts"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1816.5—Indefinite-Delivery Contracts">
             <topicref navtitle="1816.506-70   NASA contract clause."
                       href="Section_1816_506_70_T48_6041815411.dita"
                       props="1816.506-70"
@@ -639,12 +639,12 @@
       </topicref>
       <topicref navtitle="PART 1817—SPECIAL CONTRACTING METHODS&#xA;"
                 href="Part_1817_T48_6041816.dita"
-                props="PART 1817—SPECIAL CONTRACTING METHODS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1817">
          <topicref navtitle="Subpart 1817.2—Options"
                    href="Subpart_1817_2_T48_60418161.dita"
-                   props="Subpart 1817.2—Options"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1817.2">
             <topicref navtitle="1817.208   Solicitation provisions and contract clauses. (NASA supplements paragraph (c))"
                       href="Section_1817_208_T48_6041816111.dita"
                       props="1817.208"
@@ -652,8 +652,8 @@
          </topicref>
          <topicref navtitle="Subpart 1817.70—Phased Acquisition"
                    href="Subpart_1817_70_T48_60418162.dita"
-                   props="Subpart 1817.70—Phased Acquisition"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1817.70">
             <topicref navtitle="1817.7000   Definitions."
                       href="Section_1817_7000_T48_6041816211.dita"
                       props="1817.7000"
@@ -667,20 +667,20 @@
    </topicref>
    <topicref navtitle="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS &#xA;&#xA;&#xA;"
              href="Subchapter_D_T48_60419.dita"
-             props="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter D">
       <topicref navtitle="PART 1819—SMALL BUSINESS PROGRAMS&#xA;&#xA;&#xA;"
                 href="Part_1819_T48_6041917.dita"
-                props="PART 1819—SMALL BUSINESS PROGRAMS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1819">
          <topicref navtitle="1819.001   Definitions."
                    href="Section_1819_001_T48_6041917011.dita"
                    props="1819.001"
                    outputclass="Section"/>
          <topicref navtitle="Subpart 1819.2—Policies"
                    href="Subpart_1819_2_T48_60419171.dita"
-                   props="Subpart 1819.2—Policies"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1819.2">
             <topicref navtitle="1819.201   General policy. (NASA supplements paragraphs (a), (c), (d), and (f))"
                       href="Section_1819_201_T48_6041917111.dita"
                       props="1819.201"
@@ -692,8 +692,8 @@
          </topicref>
          <topicref navtitle="Subpart 1819.7—The Small Business Subcontracting Program"
                    href="Subpart_1819_7_T48_60419172.dita"
-                   props="Subpart 1819.7—The Small Business Subcontracting Program"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1819.7">
             <topicref navtitle="1819.708   Contract clauses. (NASA supplements paragraph (b))"
                       href="Section_1819_708_T48_6041917211.dita"
                       props="1819.708"
@@ -709,16 +709,16 @@
          </topicref>
          <topicref navtitle="Subpart 1819.10 [Reserved]"
                    href="Subpart_1819_10_T48_60419173.dita"
-                   props="Subpart 1819.10"
-                   outputclass="SubPart"/>
+                   outputclass="SubPart"
+                   props="Subpart 1819.10"/>
          <topicref navtitle="Subparts 1819.70—1819.71 [Reserved]"
                    href="Subpart_1819_70_T48_60419174.dita"
-                   props="Subparts 1819.70—1819.71 [Reserved]"
-                   outputclass="SubPart"/>
+                   outputclass="SubPart"
+                   props="Subpart 1819.70"/>
          <topicref navtitle="Subpart 1819.72—NASA Mentor-Protégé Program"
                    href="Subpart_1819_72_T48_60419175.dita"
-                   props="Subpart 1819.72—NASA Mentor-Protégé Program"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1819.72—NASA Mentor-Protégé Program">
             <topicref navtitle="1819.7201   Scope of subpart."
                       href="Section_1819_7201_T48_6041917511.dita"
                       props="1819.7201"
@@ -739,27 +739,35 @@
                       href="Section_1819_7205_T48_6041917515.dita"
                       props="1819.7205"
                       outputclass="Section"/>
-            <topicref navtitle="1819.7206-1819.7211   [Reserved]"
-                      href="Section_1819_7206_1819_7211_T48_6041917516.dita"
-                      props="1819.7206-1819"
+            <topicref navtitle="1819.7206   xxx"
+                      href="Section_1819_7206_T48_6041917516.dita"
+                      props="1819.7206"
+                      outputclass="Section"/>
+            <topicref navtitle="1819.7207-1819.7211   [Reserved]"
+                      href="Section_1819_7207_1819_7211_T48_6041917517.dita"
+                      props="1819.7207-1819"
                       outputclass="Section"/>
             <topicref navtitle="1819.7212   Reporting requirements."
-                      href="Section_1819_7212_T48_6041917517.dita"
+                      href="Section_1819_7212_T48_6041917518.dita"
                       props="1819.7212"
                       outputclass="Section"/>
-            <topicref navtitle="1819.7213-1819.7214   [Reserved]"
-                      href="Section_1819_7213_1819_7214_T48_6041917518.dita"
-                      props="1819.7213-1819"
+            <topicref navtitle="1819.7213   "
+                      href="Section_1819_7213_T48_6041917519.dita"
+                      props="1819.7213"
+                      outputclass="Section"/>
+            <topicref navtitle="1819.7214   [Reserved]"
+                      href="Section_1819_7214_T48_60419175110.dita"
+                      props="1819.7214"
                       outputclass="Section"/>
             <topicref navtitle="1819.7215   Solicitation provision and contract clauses."
-                      href="Section_1819_7215_T48_6041917519.dita"
+                      href="Section_1819_7215_T48_60419175111.dita"
                       props="1819.7215"
                       outputclass="Section"/>
          </topicref>
          <topicref navtitle="Subpart 1819.73—Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Programs"
                    href="Subpart_1819_73_T48_60419176.dita"
-                   props="Subpart 1819.73—Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Programs"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1819.73">
             <topicref navtitle="1819.7301   Scope of subpart."
                       href="Section_1819_7301_T48_6041917611.dita"
                       props="1819.7301"
@@ -772,12 +780,12 @@
       </topicref>
       <topicref navtitle="PART 1822—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS &#xA;"
                 href="Part_1822_T48_6041918.dita"
-                props="PART 1822—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1822">
          <topicref navtitle="Subpart 1822.1—Basic Labor Policies"
                    href="Subpart_1822_1_T48_60419181.dita"
-                   props="Subpart 1822.1—Basic Labor Policies"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1822.1">
             <topicref navtitle="1822.103-5   Contract clause."
                       href="Section_1822_103_5_T48_6041918111.dita"
                       props="1822.103-5"
@@ -786,12 +794,12 @@
       </topicref>
       <topicref navtitle="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE&#xA;&#xA;&#xA;"
                 href="Part_1823_T48_6041919.dita"
-                props="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE"
-                outputclass="Part">
+                outputclass="Part"
+                props="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE">
          <topicref navtitle="Subpart 1823.2—Energy and Water Efficiency and Renewable Energy"
                    href="Subpart_1823_2_T48_60419191.dita"
-                   props="Subpart 1823.2—Energy and Water Efficiency and Renewable Energy"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1823.2">
             <topicref navtitle="1823.271   NASA Solicitation provision and contract clause."
                       href="Section_1823_271_T48_6041919111.dita"
                       props="1823.271"
@@ -799,8 +807,8 @@
          </topicref>
          <topicref navtitle="Subpart 1823.5—Drug-Free Workplace"
                    href="Subpart_1823_5_T48_60419192.dita"
-                   props="Subpart 1823.5—Drug-Free Workplace"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1823.5—Drug-Free Workplace">
             <topicref navtitle="1823.570   Drug- and alcohol-free workforce."
                       href="Section_1823_570_T48_6041919211.dita"
                       props="1823.570"
@@ -820,8 +828,8 @@
          </topicref>
          <topicref navtitle="Subpart 1823.70—Safety and Health"
                    href="Subpart_1823_70_T48_60419193.dita"
-                   props="Subpart 1823.70—Safety and Health"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1823.70">
             <topicref navtitle="1823.7001   NASA solicitation provisions and contract clauses."
                       href="Section_1823_7001_T48_6041919311.dita"
                       props="1823.7001"
@@ -829,8 +837,8 @@
          </topicref>
          <topicref navtitle="Subpart 1823.71—Authorization for Radio Frequency Use"
                    href="Subpart_1823_71_T48_60419194.dita"
-                   props="Subpart 1823.71—Authorization for Radio Frequency Use"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1823.71">
             <topicref navtitle="1823.7101   Contract clause."
                       href="Section_1823_7101_T48_6041919411.dita"
                       props="1823.7101"
@@ -839,12 +847,12 @@
       </topicref>
       <topicref navtitle="PART 1824—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;"
                 href="Part_1824_T48_6041920.dita"
-                props="PART 1824—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1824">
          <topicref navtitle="Subpart 1824.1—Protection of Individual Privacy"
                    href="Subpart_1824_1_T48_60419201.dita"
-                   props="Subpart 1824.1—Protection of Individual Privacy"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1824.1">
             <topicref navtitle="1824.102   General."
                       href="Section_1824_102_T48_6041920111.dita"
                       props="1824.102"
@@ -853,8 +861,8 @@
       </topicref>
       <topicref navtitle="PART 1825—FOREIGN ACQUISITION &#xA;"
                 href="Part_1825_T48_6041921.dita"
-                props="PART 1825—FOREIGN ACQUISITION"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1825">
          <topicref navtitle="1825.003   Definitions."
                    href="Section_1825_003_T48_6041921011.dita"
                    props="1825.003"
@@ -865,8 +873,8 @@
                    outputclass="Section"/>
          <topicref navtitle="Subpart 1825.1—Buy American Act—Supplies"
                    href="Subpart_1825_1_T48_60419211.dita"
-                   props="Subpart 1825.1—Buy American Act—Supplies"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1825.1">
             <topicref navtitle="1825.103   Exceptions."
                       href="Section_1825_103_T48_6041921111.dita"
                       props="1825.103"
@@ -874,8 +882,8 @@
          </topicref>
          <topicref navtitle="Subpart 1825.4—Trade Agreements"
                    href="Subpart_1825_4_T48_60419212.dita"
-                   props="Subpart 1825.4—Trade Agreements"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1825.4">
             <topicref navtitle="1825.400   Scope of subpart."
                       href="Section_1825_400_T48_6041921211.dita"
                       props="1825.400"
@@ -883,8 +891,8 @@
          </topicref>
          <topicref navtitle="Subpart 1825.9—Customs and Duties"
                    href="Subpart_1825_9_T48_60419213.dita"
-                   props="Subpart 1825.9—Customs and Duties"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1825.9">
             <topicref navtitle="1825.901   Policy."
                       href="Section_1825_901_T48_6041921311.dita"
                       props="1825.901"
@@ -892,8 +900,8 @@
          </topicref>
          <topicref navtitle="Subpart 1825.11—Solicitation Provisions and Contract Clauses"
                    href="Subpart_1825_11_T48_60419214.dita"
-                   props="Subpart 1825.11—Solicitation Provisions and Contract Clauses"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1825.11">
             <topicref navtitle="1825.1101   Acquisition of supplies."
                       href="Section_1825_1101_T48_6041921411.dita"
                       props="1825.1101"
@@ -911,20 +919,20 @@
    </topicref>
    <topicref navtitle="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS &#xA;&#xA;&#xA;"
              href="Subchapter_E_T48_60420.dita"
-             props="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter E">
       <topicref navtitle="PART 1827—PATENTS, DATA, AND COPYRIGHTS&#xA;"
                 href="Part_1827_T48_6042022.dita"
-                props="PART 1827—PATENTS, DATA, AND COPYRIGHTS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1827">
          <topicref navtitle="1827.000   Scope of part."
                    href="Section_1827_000_T48_6042022011.dita"
                    props="1827.000"
                    outputclass="Section"/>
          <topicref navtitle="Subpart 1827.3—Patent Rights Under Government Contracts"
                    href="Subpart_1827_3_T48_60420221.dita"
-                   props="Subpart 1827.3—Patent Rights Under Government Contracts"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1827.3">
             <topicref navtitle="1827.301   Definitions."
                       href="Section_1827_301_T48_6042022111.dita"
                       props="1827.301"
@@ -968,8 +976,8 @@
          </topicref>
          <topicref navtitle="Subpart 1827.4—Rights in Data and Copyrights"
                    href="Subpart_1827_4_T48_60420222.dita"
-                   props="Subpart 1827.4—Rights in Data and Copyrights"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1827.4">
             <topicref navtitle="1827.404   Basic rights in data clause."
                       href="Section_1827_404_T48_6042022211.dita"
                       props="1827.404"
@@ -986,12 +994,12 @@
       </topicref>
       <topicref navtitle="PART 1828—BONDS AND INSURANCE&#xA;"
                 href="Part_1828_T48_6042023.dita"
-                props="PART 1828—BONDS AND INSURANCE"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1828">
          <topicref navtitle="Subpart 1828.3—Insurance"
                    href="Subpart_1828_3_T48_60420231.dita"
-                   props="Subpart 1828.3—Insurance"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1828.3">
             <topicref navtitle="1828.311   Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts."
                       href="Section_1828_311_T48_6042023111.dita"
                       props="1828.311"
@@ -1024,12 +1032,12 @@
       </topicref>
       <topicref navtitle="PART 1830—COST ACCOUNTING STANDARDS ADMINISTRATION&#xA;"
                 href="Part_1830_T48_6042024.dita"
-                props="PART 1830—COST ACCOUNTING STANDARDS ADMINISTRATION"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1830">
          <topicref navtitle="Subpart 1830.70—Facilities Capital Employed for Facilities in Use and For Facilities Under Construction"
                    href="Subpart_1830_70_T48_60420241.dita"
-                   props="Subpart 1830.70—Facilities Capital Employed for Facilities in Use and For Facilities Under Construction"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1830.70">
             <topicref navtitle="1830.7001   Facilities capital employed for facilities in use."
                       href="Section_1830_7001_T48_6042024111.dita"
                       props="1830.7001"
@@ -1066,12 +1074,12 @@
       </topicref>
       <topicref navtitle="PART 1831—CONTRACT COST PRINCIPLES AND PROCEDURES&#xA;"
                 href="Part_1831_T48_6042025.dita"
-                props="PART 1831—CONTRACT COST PRINCIPLES AND PROCEDURES"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1831">
          <topicref navtitle="Subpart 1831.2—Contracts with Commercial Organizations"
                    href="Subpart_1831_2_T48_60420251.dita"
-                   props="Subpart 1831.2—Contracts with Commercial Organizations"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1831.2">
             <topicref navtitle="1831.205   Selected costs."
                       href="Section_1831_205_T48_6042025111.dita"
                       props="1831.205"
@@ -1086,15 +1094,15 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1832—CONTRACT FINANCING&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 1832—CONTRACT FINANCING&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_1832_T48_6042026.dita"
-                props="PART 1832—CONTRACT FINANCING"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1832.1—Non-Commercial Item Purchase Financing"
+                outputclass="Part"
+                props="Part 1832">
+         <topicref navtitle="Subpart 1832.1—Other Than Commercial Products and Services Financing"
                    href="Subpart_1832_1_T48_60420261.dita"
-                   props="Subpart 1832.1—Non-Commercial Item Purchase Financing"
-                   outputclass="SubPart">
-            <topicref navtitle="1832.111   Contract clauses for non-commercial purchases."
+                   outputclass="SubPart"
+                   props="Subpart 1832.1">
+            <topicref navtitle="1832.111   Contractor clauses for other than commercial purchases."
                       href="Section_1832_111_T48_6042026111.dita"
                       props="1832.111"
                       outputclass="Section"/>
@@ -1105,8 +1113,8 @@
          </topicref>
          <topicref navtitle="Subpart 1832.2—Commercial Item Purchase Financing"
                    href="Subpart_1832_2_T48_60420262.dita"
-                   props="Subpart 1832.2—Commercial Item Purchase Financing"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1832.2">
             <topicref navtitle="1832.202-1   Policy. (NASA supplements paragraph (b))"
                       href="Section_1832_202_1_T48_6042026211.dita"
                       props="1832.202-1"
@@ -1116,10 +1124,10 @@
                       props="1832.206"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1832.4—Advance Payments for Non-Commercial Items"
+         <topicref navtitle="Subpart 1832.4—Advance Payments for Other Than Commercial Products and Commercial Servicess"
                    href="Subpart_1832_4_T48_60420263.dita"
-                   props="Subpart 1832.4—Advance Payments for Non-Commercial Items"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1832.4">
             <topicref navtitle="1832.412   Contract clause. (NASA supplement paragraphs (e) and (f))"
                       href="Section_1832_412_T48_6042026311.dita"
                       props="1832.412"
@@ -1131,8 +1139,8 @@
          </topicref>
          <topicref navtitle="Subpart 1832.5—Progress Payments Based on Costs"
                    href="Subpart_1832_5_T48_60420264.dita"
-                   props="Subpart 1832.5—Progress Payments Based on Costs"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1832.5">
             <topicref navtitle="1832.501   General."
                       href="Section_1832_501_T48_6042026411.dita"
                       props="1832.501"
@@ -1152,8 +1160,8 @@
          </topicref>
          <topicref navtitle="Subpart 1832.7—Contract Funding"
                    href="Subpart_1832_7_T48_60420265.dita"
-                   props="Subpart 1832.7—Contract Funding"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1832.7">
             <topicref navtitle="1832.705   Contract clauses."
                       href="Section_1832_705_T48_6042026511.dita"
                       props="1832.705"
@@ -1169,8 +1177,8 @@
          </topicref>
          <topicref navtitle="Subpart 1832.9—Prompt Payment"
                    href="Subpart_1832_9_T48_60420266.dita"
-                   props="Subpart 1832.9—Prompt Payment"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1832.9">
             <topicref navtitle="1832.908   Contract clauses."
                       href="Section_1832_908_T48_6042026611.dita"
                       props="1832.908"
@@ -1182,8 +1190,8 @@
          </topicref>
          <topicref navtitle="Subpart 1832.10—Performance-Based Payments"
                    href="Subpart_1832_10_T48_60420267.dita"
-                   props="Subpart 1832.10—Performance-Based Payments"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1832.10—Performance-Based Payments">
             <topicref navtitle="1832.1005   Contract clauses. (NASA supplements paragraph (a))"
                       href="Section_1832_1005_T48_6042026711.dita"
                       props="1832.1005"
@@ -1195,8 +1203,8 @@
          </topicref>
          <topicref navtitle="Subpart 1832.11—Electronic Funds Transfer"
                    href="Subpart_1832_11_T48_60420268.dita"
-                   props="Subpart 1832.11—Electronic Funds Transfer"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1832.11">
             <topicref navtitle="1832.1110   Solicitation provision and contract clauses. (NASA supplements paragraphs (a), (b), and (c))."
                       href="Section_1832_1110_T48_6042026811.dita"
                       props="1832.1110"
@@ -1205,12 +1213,12 @@
       </topicref>
       <topicref navtitle="PART 1833—PROTESTS, DISPUTES, AND APPEALS&#xA;"
                 href="Part_1833_T48_6042027.dita"
-                props="PART 1833—PROTESTS, DISPUTES, AND APPEALS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1833">
          <topicref navtitle="Subpart 1833.1—Protests"
                    href="Subpart_1833_1_T48_60420271.dita"
-                   props="Subpart 1833.1—Protests"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1833.1">
             <topicref navtitle="1833.103   Protests to the agency."
                       href="Section_1833_103_T48_6042027111.dita"
                       props="1833.103"
@@ -1222,8 +1230,8 @@
          </topicref>
          <topicref navtitle="Subpart 1833.2—Disputes and Appeals"
                    href="Subpart_1833_2_T48_60420272.dita"
-                   props="Subpart 1833.2—Disputes and Appeals"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1833.2">
             <topicref navtitle="1833.215   Contract clause."
                       href="Section_1833_215_T48_6042027211.dita"
                       props="1833.215"
@@ -1233,16 +1241,16 @@
    </topicref>
    <topicref navtitle="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING &#xA;&#xA;&#xA;"
              href="Subchapter_F_T48_60421.dita"
-             props="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter F">
       <topicref navtitle="PART 1834—MAJOR SYSTEM ACQUISITION &#xA;"
                 href="Part_1834_T48_6042128.dita"
-                props="PART 1834—MAJOR SYSTEM ACQUISITION"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1834">
          <topicref navtitle="Subpart 1834.2—Earned Value Management System"
                    href="Subpart_1834_2_T48_60421281.dita"
-                   props="Subpart 1834.2—Earned Value Management System"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1834.2">
             <topicref navtitle="1834.201   Policy."
                       href="Section_1834_201_T48_6042128111.dita"
                       props="1834.201"
@@ -1259,8 +1267,8 @@
       </topicref>
       <topicref navtitle="PART 1835—RESEARCH AND DEVELOPMENT CONTRACTING&#xA;"
                 href="Part_1835_T48_6042129.dita"
-                props="PART 1835—RESEARCH AND DEVELOPMENT CONTRACTING"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1835">
          <topicref navtitle="1835.016-70   Foreign participation under broad agency announcements (BAAs)."
                    href="Section_1835_016_70_T48_6042129011.dita"
                    props="1835.016-70"
@@ -1276,12 +1284,12 @@
       </topicref>
       <topicref navtitle="PART 1836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS&#xA;"
                 href="Part_1836_T48_6042130.dita"
-                props="PART 1836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS"
-                outputclass="Part">
+                outputclass="Part"
+                props="PART 1836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS">
          <topicref navtitle="Subpart 1836.2—Special Aspects of Contracting for Construction"
                    href="Subpart_1836_2_T48_60421301.dita"
-                   props="Subpart 1836.2—Special Aspects of Contracting for Construction"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1836.2">
             <topicref navtitle="1836.203   Government estimate of construction costs.(NASA supplements paragraph (c))"
                       href="Section_1836_203_T48_6042130111.dita"
                       props="1836.203"
@@ -1293,8 +1301,8 @@
          </topicref>
          <topicref navtitle="Subpart 1836.5—Contract Clauses"
                    href="Subpart_1836_5_T48_60421302.dita"
-                   props="Subpart 1836.5—Contract Clauses"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1836.5">
             <topicref navtitle="1836.513   Accident prevention."
                       href="Section_1836_513_T48_6042130211.dita"
                       props="1836.513"
@@ -1306,8 +1314,8 @@
          </topicref>
          <topicref navtitle="Subpart 1836.6—Architect-Engineer Services"
                    href="Subpart_1836_6_T48_60421303.dita"
-                   props="Subpart 1836.6—Architect-Engineer Services"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1836.6—Architect-Engineer Services">
             <topicref navtitle="1836.602   Selection of firms for architect-engineer contracts."
                       href="Section_1836_602_T48_6042130311.dita"
                       props="1836.602"
@@ -1319,8 +1327,8 @@
          </topicref>
          <topicref navtitle="Subpart 1836.70—Partnering"
                    href="Subpart_1836_70_T48_60421304.dita"
-                   props="Subpart 1836.70—Partnering"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1836.70">
             <topicref navtitle="1836.7004   NASA solicitation provision and contract clause."
                       href="Section_1836_7004_T48_6042130411.dita"
                       props="1836.7004"
@@ -1329,12 +1337,12 @@
       </topicref>
       <topicref navtitle="PART 1837—SERVICE CONTRACTING&#xA;"
                 href="Part_1837_T48_6042131.dita"
-                props="PART 1837—SERVICE CONTRACTING"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1837">
          <topicref navtitle="Subpart 1837.1—Service Contracts—General"
                    href="Subpart_1837_1_T48_60421311.dita"
-                   props="Subpart 1837.1—Service Contracts—General"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1837.1">
             <topicref navtitle="1837.101   Definitions."
                       href="Section_1837_101_T48_6042131111.dita"
                       props="1837.101"
@@ -1358,8 +1366,8 @@
          </topicref>
          <topicref navtitle="Subpart 1837.2—Advisory and Assistance Services"
                    href="Subpart_1837_2_T48_60421312.dita"
-                   props="Subpart 1837.2—Advisory and Assistance Services"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1837.2">
             <topicref navtitle="1837.203   Policy."
                       href="Section_1837_203_T48_6042131211.dita"
                       props="1837.203"
@@ -1380,12 +1388,12 @@
       </topicref>
       <topicref navtitle="PART 1839—ACQUISITION OF INFORMATION TECHNOLOGY &#xA;"
                 href="Part_1839_T48_6042132.dita"
-                props="PART 1839—ACQUISITION OF INFORMATION TECHNOLOGY"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1839">
          <topicref navtitle="Subpart 1839.1—General"
                    href="Subpart_1839_1_T48_60421321.dita"
-                   props="Subpart 1839.1—General"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1839.1">
             <topicref navtitle="1839.107   Contract clause."
                       href="Section_1839_107_T48_6042132111.dita"
                       props="1839.107"
@@ -1399,29 +1407,29 @@
    </topicref>
    <topicref navtitle="SUBCHAPTER G—CONTRACT MANAGEMENT &#xA;&#xA;&#xA;"
              href="Subchapter_G_T48_60422.dita"
-             props="SUBCHAPTER G—CONTRACT MANAGEMENT"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter G">
       <topicref navtitle="PART 1840 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1840_T48_6042233.dita"
-                props="PART 1840"
-                outputclass="Part"/>
+                outputclass="Part"
+                props="Part 1840"/>
       <topicref navtitle="PART 1841—ACQUISITION OF UTILITY SERVICES &#xA;"
                 href="Part_1841_T48_6042234.dita"
-                props="PART 1841—ACQUISITION OF UTILITY SERVICES"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1841">
          <topicref navtitle="Subpart 1841.5 [Reserved]"
                    href="Subpart_1841_5_T48_60422341.dita"
-                   props="Subpart 1841.5"
-                   outputclass="SubPart"/>
+                   outputclass="SubPart"
+                   props="Subpart 1841.5"/>
       </topicref>
       <topicref navtitle="PART 1842—CONTRACT ADMINISTRATION AND AUDIT SERVICES&#xA;"
                 href="Part_1842_T48_6042235.dita"
-                props="PART 1842—CONTRACT ADMINISTRATION AND AUDIT SERVICES"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1842">
          <topicref navtitle="Subpart 1842.70—Additional NASA Contract Clauses"
                    href="Subpart_1842_70_T48_60422351.dita"
-                   props="Subpart 1842.70—Additional NASA Contract Clauses"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1842.70">
             <topicref navtitle="1842.7001   Denied access to NASA facilities."
                       href="Section_1842_7001_T48_6042235111.dita"
                       props="1842.7001"
@@ -1437,12 +1445,12 @@
          </topicref>
          <topicref navtitle="Subpart 1842.71 [Reserved]"
                    href="Subpart_1842_71_T48_60422352.dita"
-                   props="Subpart 1842.71"
-                   outputclass="SubPart"/>
+                   outputclass="SubPart"
+                   props="Subpart 1842.71"/>
          <topicref navtitle="Subpart 1842.72—NASA Contractor Financial Management Reporting"
                    href="Subpart_1842_72_T48_60422353.dita"
-                   props="Subpart 1842.72—NASA Contractor Financial Management Reporting"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1842.72">
             <topicref navtitle="1842.7201   General."
                       href="Section_1842_7201_T48_6042235311.dita"
                       props="1842.7201"
@@ -1455,12 +1463,12 @@
       </topicref>
       <topicref navtitle="PART 1843—CONTRACT MODIFICATIONS&#xA;"
                 href="Part_1843_T48_6042236.dita"
-                props="PART 1843—CONTRACT MODIFICATIONS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1843">
          <topicref navtitle="Subpart 1843.2—Change Orders"
                    href="Subpart_1843_2_T48_60422361.dita"
-                   props="Subpart 1843.2—Change Orders"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1843.2">
             <topicref navtitle="1843.205   Contract clauses."
                       href="Section_1843_205_T48_6042236111.dita"
                       props="1843.205"
@@ -1473,12 +1481,12 @@
       </topicref>
       <topicref navtitle="PART 1844—SUBCONTRACTING POLICIES AND PROCEDURES&#xA;"
                 href="Part_1844_T48_6042237.dita"
-                props="PART 1844—SUBCONTRACTING POLICIES AND PROCEDURES"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1844">
          <topicref navtitle="Subpart 1844.2—Consent to Subcontracts"
                    href="Subpart_1844_2_T48_60422371.dita"
-                   props="Subpart 1844.2—Consent to Subcontracts"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1844.2">
             <topicref navtitle="1844.204   Contract clauses."
                       href="Section_1844_204_T48_6042237111.dita"
                       props="1844.204"
@@ -1491,12 +1499,12 @@
       </topicref>
       <topicref navtitle="PART 1845—GOVERNMENT PROPERTY&#xA;"
                 href="Part_1845_T48_6042238.dita"
-                props="PART 1845—GOVERNMENT PROPERTY"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1845">
          <topicref navtitle="Subpart 1845.1—General"
                    href="Subpart_1845_1_T48_60422381.dita"
-                   props="Subpart 1845.1—General"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1845.1">
             <topicref navtitle="1845.107   Contract clauses."
                       href="Section_1845_107_T48_6042238111.dita"
                       props="1845.107"
@@ -1508,8 +1516,8 @@
          </topicref>
          <topicref navtitle="Subpart 1845.3—Authorizing the Use and Rental of Government Property"
                    href="Subpart_1845_3_T48_60422382.dita"
-                   props="Subpart 1845.3—Authorizing the Use and Rental of Government Property"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1845.3">
             <topicref navtitle="1845.302   Use of Government property on contracts with foreign governments or international organizations."
                       href="Section_1845_302_T48_6042238211.dita"
                       props="1845.302"
@@ -1517,12 +1525,12 @@
          </topicref>
          <topicref navtitle="Subpart 1845.4 [Reserved]"
                    href="Subpart_1845_4_T48_60422383.dita"
-                   props="Subpart 1845.4"
-                   outputclass="SubPart"/>
+                   outputclass="SubPart"
+                   props="Subpart 1845.4"/>
          <topicref navtitle="Subpart 1845.5—Support Government Property Administration"
                    href="Subpart_1845_5_T48_60422384.dita"
-                   props="Subpart 1845.5—Support Government Property Administration"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1845.5">
             <topicref navtitle="1845.501-70   General."
                       href="Section_1845_501_70_T48_6042238411.dita"
                       props="1845.501-70"
@@ -1542,8 +1550,8 @@
          </topicref>
          <topicref navtitle="Subpart 1845.6—Reporting, Redistribution, and Disposal of Contractor Inventory"
                    href="Subpart_1845_6_T48_60422385.dita"
-                   props="Subpart 1845.6—Reporting, Redistribution, and Disposal of Contractor Inventory"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1845.6">
             <topicref navtitle="1845.604   Restrictions on purchase or retention of contractor inventory."
                       href="Section_1845_604_T48_6042238511.dita"
                       props="1845.604"
@@ -1579,8 +1587,8 @@
          </topicref>
          <topicref navtitle="Subpart 1845.71—Forms Preparation"
                    href="Subpart_1845_71_T48_60422386.dita"
-                   props="Subpart 1845.71—Forms Preparation"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1845.71">
             <topicref navtitle="1845.7101   Instructions for preparing NASA Form 1018."
                       href="Section_1845_7101_T48_6042238611.dita"
                       props="1845.7101"
@@ -1609,12 +1617,12 @@
       </topicref>
       <topicref navtitle="PART 1846—QUALITY ASSURANCE&#xA;"
                 href="Part_1846_T48_6042239.dita"
-                props="PART 1846—QUALITY ASSURANCE"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1846">
          <topicref navtitle="Subpart 1846.1—General"
                    href="Subpart_1846_1_T48_60422391.dita"
-                   props="Subpart 1846.1—General"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1846.1">
             <topicref navtitle="1846.102   Policy."
                       href="Section_1846_102_T48_6042239111.dita"
                       props="1846.102"
@@ -1622,8 +1630,8 @@
          </topicref>
          <topicref navtitle="Subpart 1846.3—Contract Clauses"
                    href="Subpart_1846_3_T48_60422392.dita"
-                   props="Subpart 1846.3—Contract Clauses"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1846.3">
             <topicref navtitle="1846.370   NASA contract clauses."
                       href="Section_1846_370_T48_6042239211.dita"
                       props="1846.370"
@@ -1631,8 +1639,8 @@
          </topicref>
          <topicref navtitle="Subpart 1846.4—Government Contract Quality Assurance"
                    href="Subpart_1846_4_T48_60422393.dita"
-                   props="Subpart 1846.4—Government Contract Quality Assurance"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1846.4">
             <topicref navtitle="1846.470   Contract clause."
                       href="Section_1846_470_T48_6042239311.dita"
                       props="1846.470"
@@ -1640,8 +1648,8 @@
          </topicref>
          <topicref navtitle="Subpart 1846.6—Material Inspection and Receiving Reports"
                    href="Subpart_1846_6_T48_60422394.dita"
-                   props="Subpart 1846.6—Material Inspection and Receiving Reports"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1846.6">
             <topicref navtitle="1846.670   Introduction."
                       href="Section_1846_670_T48_6042239411.dita"
                       props="1846.670"
@@ -1709,8 +1717,8 @@
          </topicref>
          <topicref navtitle="Subpart 1846.70—Counterfeit Electronic Part Detection and Avoidance."
                    href="Subpart_1846_70_T48_60422395.dita"
-                   props="Subpart 1846.70—Counterfeit Electronic Part Detection and Avoidance."
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1846.70">
             <topicref navtitle="1846.7000   Scope of subpart."
                       href="Section_1846_7000_T48_6042239511.dita"
                       props="1846.7000"
@@ -1731,12 +1739,12 @@
       </topicref>
       <topicref navtitle="PART 1847—TRANSPORTATION&#xA;"
                 href="Part_1847_T48_6042240.dita"
-                props="PART 1847—TRANSPORTATION"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1847">
          <topicref navtitle="Subpart 1847.3—Transportation in Supply Contracts"
                    href="Subpart_1847_3_T48_60422401.dita"
-                   props="Subpart 1847.3—Transportation in Supply Contracts"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1847.3">
             <topicref navtitle="1847.305   Solicitation provisions, contract clauses, and transportation factors."
                       href="Section_1847_305_T48_6042240111.dita"
                       props="1847.305"
@@ -1748,8 +1756,8 @@
          </topicref>
          <topicref navtitle="Subpart 1847.70—Protection of the Florida Manatee"
                    href="Subpart_1847_70_T48_60422402.dita"
-                   props="Subpart 1847.70—Protection of the Florida Manatee"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1847.70">
             <topicref navtitle="1847.7001   Contract clause."
                       href="Section_1847_7001_T48_6042240211.dita"
                       props="1847.7001"
@@ -1758,16 +1766,16 @@
       </topicref>
       <topicref navtitle="PART 1849—TERMINATION OF CONTRACTS&#xA;"
                 href="Part_1849_T48_6042241.dita"
-                props="PART 1849—TERMINATION OF CONTRACTS"
-                outputclass="Part"/>
+                outputclass="Part"
+                props="Part 1849"/>
       <topicref navtitle="PART 1850—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT&#xA;"
                 href="Part_1850_T48_6042242.dita"
-                props="PART 1850—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1850">
          <topicref navtitle="Subpart 1850.1—Extraordinary Contractual Actions"
                    href="Subpart_1850_1_T48_60422421.dita"
-                   props="Subpart 1850.1—Extraordinary Contractual Actions"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1850.1">
             <topicref navtitle="1850.102   Delegation of and limitations of exercise of authority."
                       href="Section_1850_102_T48_6042242111.dita"
                       props="1850.102"
@@ -1820,12 +1828,12 @@
       </topicref>
       <topicref navtitle="PART 1851—USE OF GOVERNMENT SOURCES BY CONTRACTORS&#xA;"
                 href="Part_1851_T48_6042243.dita"
-                props="PART 1851—USE OF GOVERNMENT SOURCES BY CONTRACTORS"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1851">
          <topicref navtitle="Subpart 1851.2—Contractor Use of Interagency Fleet Management System (IFMS) Vehicles"
                    href="Subpart_1851_2_T48_60422431.dita"
-                   props="Subpart 1851.2—Contractor Use of Interagency Fleet Management System (IFMS) Vehicles"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1851.2">
             <topicref navtitle="1851.205   Contract clause."
                       href="Section_1851_205_T48_6042243111.dita"
                       props="1851.205"
@@ -1835,20 +1843,20 @@
    </topicref>
    <topicref navtitle="SUBCHAPTER H—CLAUSES AND FORMS &#xA;&#xA;&#xA;"
              href="Subchapter_H_T48_60423.dita"
-             props="SUBCHAPTER H—CLAUSES AND FORMS"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter H">
       <topicref navtitle="PART 1852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES&#xA;&#xA;&#xA;"
                 href="Part_1852_T48_6042344.dita"
-                props="PART 1852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1852">
          <topicref navtitle="1852.000   Scope of part."
                    href="Section_1852_000_T48_6042344011.dita"
                    props="1852.000"
                    outputclass="Section"/>
          <topicref navtitle="Subpart 1852.2—Texts of Provisions and Clauses"
                    href="Subpart_1852_2_T48_60423441.dita"
-                   props="Subpart 1852.2—Texts of Provisions and Clauses"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1852.2">
             <topicref navtitle="1852.203-70   Display of Inspector General Hotline Posters."
                       href="Section_1852_203_70_T48_6042344111.dita"
                       props="1852.203-70"
@@ -1885,11 +1893,11 @@
                       href="Section_1852_211_70_T48_6042344119.dita"
                       props="1852.211-70"
                       outputclass="Section"/>
-            <topicref navtitle="1852.213-70   Offeror Representations and Certifications—Other Than Commercial Items."
+            <topicref navtitle="1852.213-70   Offeror Representations and Certifications—Other Than Commercial Products and Commercial Services."
                       href="Section_1852_213_70_T48_60423441110.dita"
                       props="1852.213-70"
                       outputclass="Section"/>
-            <topicref navtitle="1852.213-71   Evaluation—Other Than Commercial Items."
+            <topicref navtitle="1852.213-71   Evaluation—Other Than Commercial Products and Commercial Services."
                       href="Section_1852_213_71_T48_60423441111.dita"
                       props="1852.213-71"
                       outputclass="Section"/>
@@ -2408,8 +2416,8 @@
          </topicref>
          <topicref navtitle="Subpart 1852.3—Provision and Clause Matrix"
                    href="Subpart_1852_3_T48_60423442.dita"
-                   props="Subpart 1852.3—Provision and Clause Matrix"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1852.3">
             <topicref navtitle="1852.300   Scope of subpart."
                       href="Section_1852_300_T48_6042344211.dita"
                       props="1852.300"
@@ -2422,16 +2430,16 @@
       </topicref>
       <topicref navtitle="PART 1853 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1853_T48_6042345.dita"
-                props="PART 1853"
-                outputclass="Part"/>
+                outputclass="Part"
+                props="Part 1853"/>
    </topicref>
    <topicref navtitle="SUBCHAPTER I—AGENCY SUPPLEMENTARY REGULATIONS &#xA;&#xA;&#xA;"
              href="Subchapter_I_T48_60424.dita"
-             props="SUBCHAPTER I—AGENCY SUPPLEMENTARY REGULATIONS"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter I">
       <topicref navtitle="PARTS 1872–1899 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1872_1899_T48_6042446.dita"
-                props="PARTS 1872–1899 [RESERVED]"
-                outputclass="Part"/>
+                outputclass="Part"
+                props="Part 1872–1899"/>
    </topicref>
 </map>
