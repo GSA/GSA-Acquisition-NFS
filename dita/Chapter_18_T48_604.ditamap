@@ -51,7 +51,7 @@
                       href="Section_1801_105_2_T48_604162115.dita"
                       props="1801.105-2"
                       outputclass="Section"/>
-            <topicref navtitle="1801.106   OMB approval under the Paperwork Reduction Act."
+            <topicref navtitle="1801.106   Office of Management and Budget (OMB) approval under the Paperwork Reduction Act."
                       href="Section_1801_106_T48_604162116.dita"
                       props="1801.106"
                       outputclass="Section"/>
@@ -332,7 +332,7 @@
              href="Subchapter_C_T48_60418.dita"
              outputclass="SubChapter"
              props="SubChapter C">
-      <topicref navtitle="PART 1813—SIMPLIFIED ACQUISITION PROCEDURES&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 1813—SIMPLIFIED ACQUISITION PROCEDURES&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_1813_T48_6041812.dita"
                 outputclass="Part"
                 props="Part 1813">
@@ -669,7 +669,7 @@
              href="Subchapter_D_T48_60419.dita"
              outputclass="SubChapter"
              props="SubChapter D">
-      <topicref navtitle="PART 1819—SMALL BUSINESS PROGRAMS&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 1819—SMALL BUSINESS PROGRAMS&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_1819_T48_6041917.dita"
                 outputclass="Part"
                 props="Part 1819">
@@ -681,7 +681,7 @@
                    href="Subpart_1819_2_T48_60419171.dita"
                    outputclass="SubPart"
                    props="Subpart 1819.2">
-            <topicref navtitle="1819.201   General policy. (NASA supplements paragraphs (a), (c), (d), and (f))"
+            <topicref navtitle="1819.201   General policy."
                       href="Section_1819_201_T48_6041917111.dita"
                       props="1819.201"
                       outputclass="Section"/>
@@ -727,7 +727,7 @@
                       href="Section_1819_7202_T48_6041917512.dita"
                       props="1819.7202"
                       outputclass="Section"/>
-            <topicref navtitle="1819.7203   Mentor-protégé advance payments."
+            <topicref navtitle="1819.7203   Mentor-protégé advanced payments."
                       href="Section_1819_7203_T48_6041917513.dita"
                       props="1819.7203"
                       outputclass="Section"/>
@@ -735,11 +735,11 @@
                       href="Section_1819_7204_T48_6041917514.dita"
                       props="1819.7204"
                       outputclass="Section"/>
-            <topicref navtitle="1819.7205   Award Fee Pilot Program."
+            <topicref navtitle="1819.7205   Award Fee Program."
                       href="Section_1819_7205_T48_6041917515.dita"
                       props="1819.7205"
                       outputclass="Section"/>
-            <topicref navtitle="1819.7206   xxx"
+            <topicref navtitle="1819.7206   Credit agreement."
                       href="Section_1819_7206_T48_6041917516.dita"
                       props="1819.7206"
                       outputclass="Section"/>
@@ -751,7 +751,7 @@
                       href="Section_1819_7212_T48_6041917518.dita"
                       props="1819.7212"
                       outputclass="Section"/>
-            <topicref navtitle="1819.7213   "
+            <topicref navtitle="1819.7213   Reporting allowances."
                       href="Section_1819_7213_T48_6041917519.dita"
                       props="1819.7213"
                       outputclass="Section"/>
@@ -792,7 +792,7 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_1823_T48_6041919.dita"
                 outputclass="Part"
                 props="PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE">
@@ -1088,7 +1088,7 @@
                       href="Section_1831_205_70_T48_6042025112.dita"
                       props="1831.205-70"
                       outputclass="Section"/>
-            <topicref navtitle="1831.205-671   Solicitation provision."
+            <topicref navtitle="1831.205-671   [Reserved]"
                       href="Section_1831_205_671_T48_6042025113.dita"
                       props="1831.205-671"
                       outputclass="Section"/>
@@ -1098,7 +1098,7 @@
                 href="Part_1832_T48_6042026.dita"
                 outputclass="Part"
                 props="Part 1832">
-         <topicref navtitle="Subpart 1832.1—Other Than Commercial Products and Services Financing"
+         <topicref navtitle="Subpart 1832.1—Financing for Other Than a Commercial Purchase"
                    href="Subpart_1832_1_T48_60420261.dita"
                    outputclass="SubPart"
                    props="Subpart 1832.1">
@@ -1111,7 +1111,7 @@
                       props="1832.111-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1832.2—Commercial Item Purchase Financing"
+         <topicref navtitle="Subpart 1832.2—Commercial Product and Commercial Service Purchase Financing"
                    href="Subpart_1832_2_T48_60420262.dita"
                    outputclass="SubPart"
                    props="Subpart 1832.2">
@@ -1124,7 +1124,7 @@
                       props="1832.206"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1832.4—Advance Payments for Other Than Commercial Products and Commercial Servicess"
+         <topicref navtitle="Subpart 1832.4—Advance Payments for Other Than Commercial Products and Commercial Services"
                    href="Subpart_1832_4_T48_60420263.dita"
                    outputclass="SubPart"
                    props="Subpart 1832.4">
@@ -1933,7 +1933,7 @@
                       href="Section_1852_215_84_T48_60423441119.dita"
                       props="1852.215-84"
                       outputclass="Section"/>
-            <topicref navtitle="1852.215-85   Proposal adequacy checklist."
+            <topicref navtitle="1852.215-85   Proposal Adequacy Checklist."
                       href="Section_1852_215_85_T48_60423441120.dita"
                       props="1852.215-85"
                       outputclass="Section"/>
@@ -2189,7 +2189,7 @@
                       href="Section_1852_231_70_T48_60423441183.dita"
                       props="1852.231-70"
                       outputclass="Section"/>
-            <topicref navtitle="1852.231-71   Determination of compensation reasonableness."
+            <topicref navtitle="1852.231-71   [Reserved]"
                       href="Section_1852_231_71_T48_60423441184.dita"
                       props="1852.231-71"
                       outputclass="Section"/>

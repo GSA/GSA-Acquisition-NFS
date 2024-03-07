@@ -4,11 +4,13 @@
 <dita>
    <concept outputclass="Section" id="Section_1852_215_85_T48_60423441120">
       <title class="- topic/title ">
-         <ph props="autonumber">1852.215-85</ph> Proposal adequacy checklist.</title>
+         <ph props="autonumber">1852.215-85</ph> Proposal Adequacy Checklist.</title>
       <conbody>
          <p xtrc="P">As prescribed in 1815.408–70(c), use the following provision:
 </p>
-                                 <p xtrc="HD1">PROPOSAL ADEQUACY CHECKLIST (MAR 2014)
+                                 <p xtrc="HD1">Proposal Adequacy Checklist (OCT 2023)
+
+
 </p>
                                  <p xtrc="P">The offeror shall complete the following checklist, providing location of requested information, or an explanation of why the requested information is not provided. In preparation of the offeror's checklist, offerors may elect to have their prospective subcontractors use the same or similar checklist as appropriate.
 </p>
@@ -231,8 +233,7 @@ FAR 52.244–2</entry>
                                              </entry>
                                           </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">17. FAR 52.215–20
-FAR 2.101, “commercial item”</entry>
+                                             <entry colname="1" align="left">17. FAR 52.215–20, FAR 2.101, “commercial product and commercial service”</entry>
                                              <entry colname="2" align="left">Has the offeror submitted an exception to the submission of certified cost or pricing data for Commercial Products and Commercial Services proposed either at the prime or subcontractor level, in accordance with provision 52.215–20?
 </entry>
                                              <entry colname="3" align="left"/>
@@ -240,14 +241,14 @@ FAR 2.101, “commercial item”</entry>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left"> </entry>
-                                             <entry colname="2" align="left">a. Has the offeror specifically identified the type of commercial item claim (FAR 2.101 commercial item definition, paragraphs (1) through (8)), and the basis on which the item meets the definition?
+                                             <entry colname="2" align="left">a. Has the offeror specifically identified the type of commercial product and commercial service (FAR 2.101 commercial product and commercial service definition) and the basis on which it meets the definition?
 </entry>
                                              <entry colname="3" align="left"/>
                                              <entry colname="4" align="left"/>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left"> </entry>
-                                             <entry colname="2" align="left">b. For modified Commercial Products and Commercial Services (FAR 2.101 commercial item definition paragraph (3)); did the offeror classify the modification(s) as either—
+                                             <entry colname="2" align="left">b. For modified commercial products and commercial services (FAR 2.101 commercial product and commercial service); did the offeror classify the modification(s) as either—
 </entry>
                                              <entry colname="3" align="left"/>
                                              <entry colname="4" align="left"/>
@@ -268,7 +269,8 @@ FAR 2.101, “commercial item”</entry>
                                           </row>
                      <row rowsep="1">
                                              <entry colname="1" align="left"> </entry>
-                                             <entry colname="2" align="left">c. For proposed Commercial Products and Commercial Services “of a type”, or “evolved” or modified (FAR 2.101 commercial item definition paragraphs (1) through (3)), did the contractor provide a technical description of the differences between the proposed item and the comparison item(s)?</entry>
+                                             <entry colname="2" align="left">c. For proposed commercial products and commercial services “of a type”, or “evolved” or modified (FAR 2.101 commercial product and commercial service definition) did the contractor provide a technical description of the differences between the proposed item and the comparison item(s)?
+</entry>
                                              <entry colname="3" align="left"/>
                                              <entry colname="4" align="left"/>
                                           </row>
